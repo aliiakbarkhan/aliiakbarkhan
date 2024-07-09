@@ -74,7 +74,7 @@
 
 <div align="center">
     
-[![App Platorm](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJnOTh5a3k4OG5wdTVybzYzcms5aWp2ZnczdHVpc2M3aXZiajQwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NnMH7LDpZTPZS/giphy.gif)](https://bento.me/aliakbarkhan)
+[![App Platorm](https://i.pinimg.com/originals/8f/4b/e7/8f4be7e9dd956e728cd2cf96ae6589c9.gif)](https://bento.me/aliakbarkhan)
 
 </div>
 
