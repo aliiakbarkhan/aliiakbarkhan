@@ -1,4 +1,22 @@
+
+## Hey There, I'm
+
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=Ali%20Akbar%20Khan&fontSize=50&animation=fadeIn)
+
+## About Me
+
+    Name: ALI AKBAR KHAN
+    Location: India
+    Current: Computer Science Student (2nd Year)
+
+    Fields of Interests: Web Development, Data Science, UX/UI, Software Engineering
+    
+    Technical Background: Founder - Tech10.in
+                          Intern - Cook N Kalen
+                          Campus Ambassador - IIT Indore 
+    
+    
+
 
 ## Platforms
 
@@ -16,6 +34,13 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+## Technologies
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliiakbarkhan&show_icons=true&theme=github_dark_dimmed)
+![Snake animation](https://github.com/aliiakbarkhan/aliiakbarkhan/blob/output/github-contribution-grid-snake.svg)
+
+
+
 
 ## Social Accounts
 
