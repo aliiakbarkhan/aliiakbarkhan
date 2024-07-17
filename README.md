@@ -1,4 +1,4 @@
-<img src = "https://images4.alphacoders.com/129/thumb-1920-1290494.jpg" width="100%" height="auto"/>
+<img src = "https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/Black%20Grey%20Aqua%20Grunge%20Gaming%20YouTube%20Banner%20(3).png" width="100%" height="auto"/>
 
 
 ## Hey There, I'm
