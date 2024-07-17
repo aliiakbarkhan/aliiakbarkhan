@@ -106,7 +106,7 @@ Hi 👋, I am **Ali Akbar Khan** an enthusiastic and ambitious Computer Science 
 
 <div align="center">
     
-[![App Platorm](https://i.pinimg.com/originals/8f/4b/e7/8f4be7e9dd956e728cd2cf96ae6589c9.gif)](https://bento.me/aliakbarkhan)
+[![App Platorm](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHU1bzFpOTl4ZjhkcG1vMTh6YzhtNjVyZG1jcTg3enliN3VpZzVqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ispEc1253326c/giphy.gif)](https://bento.me/aliakbarkhan)
 
 </div>
 
