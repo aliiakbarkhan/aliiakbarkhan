@@ -1,4 +1,4 @@
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <img src = "https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/Black%20Grey%20Aqua%20Grunge%20Gaming%20YouTube%20Banner%20(5).png" width="100%" height="auto"/>
 
 
@@ -92,7 +92,7 @@ Hi 👋, I am **Ali Akbar Khan** an enthusiastic and ambitious Computer Science 
   <a href="https://github.com/aliiakbarkhan?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Social Accounts
 
@@ -119,7 +119,7 @@ Hi 👋, I am **Ali Akbar Khan** an enthusiastic and ambitious Computer Science 
 
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 
 
