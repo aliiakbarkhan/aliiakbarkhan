@@ -40,8 +40,6 @@ Hi 👋, I am **Ali Akbar Khan** an enthusiastic and ambitious Computer Science 
 -->
 
 
-
-
 ## Platforms
 <div align="center">
     
@@ -73,14 +71,14 @@ Hi 👋, I am **Ali Akbar Khan** an enthusiastic and ambitious Computer Science 
 
 <img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
 
-  <a href="https://github.com/aliiakbarkhan"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=aliiakbarkhan&theme=dark"></a>
-  <a href="https://github.com/aliiakbarkhan"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=aliiakbarkhan&theme=dark"></a>
+  <a href="https://github.com/aliiakbarkhan"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=aliiakbarkhan&theme=vision-friendly-dark"></a>
+  <a href="https://github.com/aliiakbarkhan"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=aliiakbarkhan&theme=vision-friendly-dark"></a>
 
 ## 📘 My top open source projects
 
 <p align="left">
-    <a href="https://github.com/aliiakbarkhan/tekken-VIII-website-project"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=tekken-VIII-website-project&hide_border=true&theme=dark&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/aliiakbarkhan/hackerrank-solutions"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=aliiakbarkhan&repo=hackerrank-solutions&theme=dark&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+    <a href="https://github.com/aliiakbarkhan/tekken-VIII-website-project"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=tekken-VIII-website-project&hide_border=true&theme=vision-friendly-dark&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/aliiakbarkhan/hackerrank-solutions"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=aliiakbarkhan&repo=hackerrank-solutions&theme=vision-friendly-dark&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 </p>
 <p align="left">
   <a href="https://github.com/aliiakbarkhan?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
@@ -111,5 +109,8 @@ Hi 👋, I am **Ali Akbar Khan** an enthusiastic and ambitious Computer Science 
 </div>
 
 
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 
