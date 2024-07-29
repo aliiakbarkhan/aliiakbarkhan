@@ -1,6 +1,6 @@
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <img src = "https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/Black%20Grey%20Aqua%20Grunge%20Gaming%20YouTube%20Banner%20(5).png" width="100%" height="auto"/>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
 ## Hey There, I'm
@@ -108,7 +108,7 @@ Hi 👋, I am **Ali Akbar Khan** an enthusiastic and ambitious Computer Science 
 <a href="https://www.instagram.com/threads/khan._.ali07">![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)</a>
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 
 ## Portfolio
