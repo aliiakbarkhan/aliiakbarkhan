@@ -3,7 +3,7 @@
 
 
 
-## Hey There, I'm
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Hey There, I'm
 <div align="center">
     
 ![header](https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/Black%20Grey%20Aqua%20Grunge%20Gaming%20YouTube%20Banner%20(4).png)
@@ -75,14 +75,14 @@ Hi 👋, I am **Ali Akbar Khan** an enthusiastic and ambitious Computer Science 
 
 
 
-## 🔥 Github Stats
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Github Stats
 
 <img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
 
   <a href="https://github.com/aliiakbarkhan"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=aliiakbarkhan&theme=vision-friendly-dark"></a>
   <a href="https://github.com/aliiakbarkhan"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=aliiakbarkhan&theme=vision-friendly-dark"></a>
 
-## 📘 My top open source projects
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> My top open source projects
 
 <p align="left">
     <a href="https://github.com/aliiakbarkhan/tekken-VIII-website-project"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=tekken-VIII-website-project&hide_border=true&theme=vision-friendly-dark&show_icons=false" alt="readme-typing-svg"></a>
@@ -94,7 +94,7 @@ Hi 👋, I am **Ali Akbar Khan** an enthusiastic and ambitious Computer Science 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## Social Accounts
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Social Accounts
 
 <div align="center">
     
@@ -111,7 +111,7 @@ Hi 👋, I am **Ali Akbar Khan** an enthusiastic and ambitious Computer Science 
 
 
 
-## Portfolio
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Portfolio
 
 <div align="center">
     
