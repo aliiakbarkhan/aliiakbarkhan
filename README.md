@@ -3,7 +3,7 @@
 
 
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Hey There, I'm
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bomb.png" alt="Bomb" width="40" /> Hey There, I'm
 <div align="center">
     
 ![header](https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/Black%20Grey%20Aqua%20Grunge%20Gaming%20YouTube%20Banner%20(4).png)
@@ -12,22 +12,22 @@
 </div>
 <p>
   
-Hi 👋, I am **Ali Akbar Khan** an enthusiastic and ambitious Computer Science Student, Founder at [@Tech10.in](https://www.instagram.com/tech10.in/) and Graphics Designer. I specialise in Web Development, Data Science and Design. I love to network, join new communities and add value ✨
+Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Skull.png" alt="Skull" width="25" />, I am **Ali Akbar Khan** an enthusiastic and ambitious Computer Science Student, Founder at [@Tech10.in](https://www.instagram.com/tech10.in/) and Graphics Designer. I specialise in Web Development, Data Science and Design. I love to network, join new communities and add value <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Yellow%20Heart.png" alt="Yellow Heart" width="25" height="25" />.
 <div>
 <details>
-  <summary>🧑 More about me</summary>
+  <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Winking%20Face%20with%20Tongue.png" alt="Winking Face with Tongue" width="25" height="25" /> More about me</summary>
 
-- 🔭 I’m currently on a journey to build **great** things
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought Balloon" width="25" height="25" /> I’m currently on a journey to build **great** things
 
-- 🌱 I’m currently learning **everything** 🤓
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speak-No-Evil%20Monkey.png" alt="Speak-No-Evil Monkey" width="25" height="25" /> I’m currently learning **everything** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ogre.png" alt="Ogre" width="25" height="25" />
 
-- 🤝 I’m looking for help with **finding projects to contribute to!**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" alt="Sparkling Heart" width="25" height="25" /> I’m looking for help with **finding projects to contribute to!**
 
-- 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/aliakbar-khan/)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Horns.png" alt="Smiling Face with Horns" width="25" height="25" /> All of my projects are available at [LinkedIn](https://www.linkedin.com/in/aliakbar-khan/)
 
-- 💬 Ask me about **Programming, web development, and Graphics Design**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> Ask me about **Programming, web development, and Graphics Design**
 
-- 📫 Reach me out at **aliakabrkhana79@gmail.com**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" alt="Relieved Face" width="25" height="25" /> Reach me out at **aliakabrkhana79@gmail.com**
 
 </details>
   
