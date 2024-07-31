@@ -1,5 +1,5 @@
 
-<img src = "https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/Black%20Grey%20Aqua%20Grunge%20Gaming%20YouTube%20Banner%20(6).png" width="100%" height="auto"/>
+<img src = "https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/Black%20Grey%20Aqua%20Grunge%20Gaming%20YouTube%20Banner%20(5).png" width="100%" height="auto"/>
 
 
 
