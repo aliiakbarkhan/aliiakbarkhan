@@ -3,7 +3,7 @@
 
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bomb.png" alt="Bomb" width="40" /> Hey There, I'm
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20on%20Fire.png" alt="Heart on Fire" width="40" /> Hey There, I'm
 <div align="center">
     
 ![header](https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/Black%20Grey%20Aqua%20Grunge%20Gaming%20YouTube%20Banner%20(4).png)
@@ -12,10 +12,10 @@
 </div>
 <p>
   
-Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Skull.png" alt="Skull" width="25" />, I am **Ali Akbar Khan** an enthusiastic and ambitious Computer Science Student, Founder at [@Tech10.in](https://www.instagram.com/tech10.in/) and Graphics Designer. I specialise in Web Development, Data Science and Design. I love to network, join new communities and add value <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Yellow%20Heart.png" alt="Yellow Heart" width="25" height="25" />.
+#### Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Child%20Light%20Skin%20Tone.png" alt="Child Light Skin Tone" width="35" />, I am **Ali Akbar Khan** an enthusiastic and ambitious Computer Science Student, Founder at [@Tech10.in](https://www.instagram.com/tech10.in/) and Graphics Designer. I specialise in Web Development, Data Science and Design. I love to network, join new communities and add value <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Yellow%20Heart.png" alt="Yellow Heart" width="25" height="25" />.
 <div>
 <details>
-  <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Winking%20Face%20with%20Tongue.png" alt="Winking Face with Tongue" width="25" height="25" /> More about me</summary>
+  <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="30" height="30" /> More about me</summary>
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought Balloon" width="25" height="25" /> I’m currently on a journey to build **great** things
 
@@ -118,7 +118,6 @@ Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluen
 [![App Platorm](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHU1bzFpOTl4ZjhkcG1vMTh6YzhtNjVyZG1jcTg3enliN3VpZzVqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ispEc1253326c/giphy.gif)](https://bento.me/aliakbarkhan)
 
 </div>
-
 
 
 
