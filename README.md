@@ -6,7 +6,7 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20on%20Fire.png" alt="Heart on Fire" width="40" /> Hey There, I'm
 <div align="center">
     
-![header](https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/Copy%20of%20White%20Rose%20Profile%20LinkedIn%20Banner%20(7).png)
+![header](https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/Copy%20of%20White%20Rose%20Profile%20LinkedIn%20Banner%20(8).png)
 
 
 </div>
