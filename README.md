@@ -1,12 +1,12 @@
 
-<img src = "https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/Black%20Grey%20Aqua%20Grunge%20Gaming%20YouTube%20Banner%20(5).png" width="100%" height="auto"/>
+<img src = "https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/Black%20Grey%20Aqua%20Grunge%20Gaming%20YouTube%20Banner%20(6).png" width="100%" height="auto"/>
 
 
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20on%20Fire.png" alt="Heart on Fire" width="40" /> Hey There, I'm
 <div align="center">
     
-![header](https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/Black%20Grey%20Aqua%20Grunge%20Gaming%20YouTube%20Banner%20(4).png)
+![header](https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/Copy%20of%20White%20Rose%20Profile%20LinkedIn%20Banner%20(7).png)
 
 
 </div>
