@@ -117,6 +117,7 @@
     
 [![App Platorm](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHU1bzFpOTl4ZjhkcG1vMTh6YzhtNjVyZG1jcTg3enliN3VpZzVqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ispEc1253326c/giphy.gif)](https://bento.me/aliakbarkhan)
 
+#### (click on the gif)
 </div>
 
 
