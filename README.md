@@ -15,7 +15,6 @@
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Photoshop Posters
 <p align="center">
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-1.png" width="30%"/>    
 <img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-13.2.png" width="30%"/>    
 <img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-12.1.png" width="30%"/>    
 <img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-12.2.png" width="30%"/>    
@@ -43,12 +42,10 @@
 <img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-21.1.png" width="30%"/>
 <img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-21.png" width="30%"/>
 <img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-22.png" width="30%"/>
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-23.png" width="30%"/>
 <img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-24.png" width="30%"/>
 <img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-25.1.png" width="30%"/>
 <img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-25.png" width="30%"/>
 <img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-26.png" width="30%"/>
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-27.png" width="30%"/>
 <img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-3-Recovered.png" width="30%"/>
 <img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-4.png" width="30%"/>
 <img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-5-Recovered.png" width="30%"/>
@@ -56,6 +53,9 @@
 <img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-7.png" width="30%"/>
 <img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-8.png" width="30%"/>
 <img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-9.png" width="30%"/>
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-27.png" width="30%"/>
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-23.png" width="30%"/>
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-1.png" width="30%"/>    
 
 </p>
 
