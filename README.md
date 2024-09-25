@@ -11,55 +11,6 @@
 
 </div>
 
-
-
-# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Photoshop Posters
-<p align="center">
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-13.2.png" width="30%"/>    
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-12.1.png" width="30%"/>    
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-12.2.png" width="30%"/>    
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-12.png" width="30%"/>    
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-13.1.png" width="30%"/>  
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-13.3.png" width="30%"/>  
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-13.png" width="30%"/>  
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-14.1.png" width="30%"/>  
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-14.2.png" width="30%"/>  
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-14.png" width="30%"/>  
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-15.1.png" width="30%"/>  
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-15.png" width="30%"/>
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-16.1.png" width="30%"/>
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-16.2.png" width="30%"/>
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-16.3.png" width="30%"/>
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-16.png" width="30%"/>
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-17.1.png" width="30%"/>
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-17.2.png" width="30%"/>
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-17.3.png" width="30%"/>
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-17.png" width="30%"/>
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-18.png" width="30%"/>
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-19.png" width="30%"/>
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-2.png" width="30%"/>
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-20.png" width="30%"/>
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-21.1.png" width="30%"/>
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-21.png" width="30%"/>
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-22.png" width="30%"/>
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-24.png" width="30%"/>
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-25.1.png" width="30%"/>
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-25.png" width="30%"/>
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-26.png" width="30%"/>
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-3-Recovered.png" width="30%"/>
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-4.png" width="30%"/>
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-5-Recovered.png" width="30%"/>
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-6.png" width="30%"/>
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-7.png" width="30%"/>
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-8.png" width="30%"/>
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-9.png" width="30%"/>
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-27.png" width="30%"/>
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-23.png" width="30%"/>
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-1.png" width="30%"/>    
-
-</p>
-
-
 <p>
   
 #### Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Child%20Light%20Skin%20Tone.png" alt="Child Light Skin Tone" width="35" />, I am **Ali Akbar Khan** an enthusiastic and ambitious Computer Science Student, Founder at [@Tech10.in](https://www.instagram.com/tech10.in/) and Graphics Designer. I specialise in Web Development, Data Science and Design. I love to network, join new communities and add value <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Yellow%20Heart.png" alt="Yellow Heart" width="25" height="25" />.
@@ -186,6 +137,55 @@
 
 #### (click on the gif)
 </div>
+
+
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Photoshop Posters
+<p align="center">
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-13.2.png" width="30%"/>    
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-12.1.png" width="30%"/>    
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-12.2.png" width="30%"/>    
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-12.png" width="30%"/>    
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-13.1.png" width="30%"/>  
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-13.3.png" width="30%"/>  
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-13.png" width="30%"/>  
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-14.1.png" width="30%"/>  
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-14.2.png" width="30%"/>  
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-14.png" width="30%"/>  
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-15.1.png" width="30%"/>  
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-15.png" width="30%"/>
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-16.1.png" width="30%"/>
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-16.2.png" width="30%"/>
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-16.3.png" width="30%"/>
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-16.png" width="30%"/>
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-17.1.png" width="30%"/>
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-17.2.png" width="30%"/>
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-17.3.png" width="30%"/>
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-17.png" width="30%"/>
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-18.png" width="30%"/>
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-19.png" width="30%"/>
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-2.png" width="30%"/>
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-20.png" width="30%"/>
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-21.1.png" width="30%"/>
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-21.png" width="30%"/>
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-22.png" width="30%"/>
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-24.png" width="30%"/>
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-25.1.png" width="30%"/>
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-25.png" width="30%"/>
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-26.png" width="30%"/>
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-3-Recovered.png" width="30%"/>
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-4.png" width="30%"/>
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-5-Recovered.png" width="30%"/>
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-6.png" width="30%"/>
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-7.png" width="30%"/>
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-8.png" width="30%"/>
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-9.png" width="30%"/>
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-27.png" width="30%"/>
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-23.png" width="30%"/>
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-1.png" width="30%"/>    
+
+</p>
+
+
 
 
 
