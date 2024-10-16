@@ -1,5 +1,6 @@
 
-<img src = "https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/Black%20Grey%20Aqua%20Grunge%20Gaming%20YouTube%20Banner%20(5).png" width="100%" height="auto"/>
+<img src = "https://github.com/user-attachments/assets/b7c4ac7b-7829-4b55-aa0a-606066b32627" width="100%" height="auto"/>
+
 
 
 
