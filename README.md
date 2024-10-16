@@ -154,7 +154,6 @@
 <img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-17.1.png" width="30%"/>
 <img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-17.png" width="30%"/>
 <img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-21.1.png" width="30%"/>
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-21.png" width="30%"/>
 </p>
 
 
