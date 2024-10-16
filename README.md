@@ -6,7 +6,7 @@
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Hey There, I'm
 <div align="center">
     
-![header](https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/Copy%20of%20White%20Rose%20Profile%20LinkedIn%20Banner%20(8).png)
+![header](https://github.com/user-attachments/assets/5ee7a308-f45f-45df-9627-18e0edb1f236)
 
 
 </div>
