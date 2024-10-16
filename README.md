@@ -78,16 +78,16 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Github Stats
 
-<img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
+<img align="right" width="38%" src="https://github.com/user-attachments/assets/c0ac85bf-be7d-4b27-be2f-17b7f50615b7"/>
 
-  <a href="https://github.com/aliiakbarkhan"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=aliiakbarkhan&theme=vision-friendly-dark"></a>
-  <a href="https://github.com/aliiakbarkhan"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=aliiakbarkhan&theme=vision-friendly-dark"></a>
+  <a href="https://github.com/aliiakbarkhan"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=aliiakbarkhan&theme=dark"></a>
+  <a href="https://github.com/aliiakbarkhan"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=aliiakbarkhan&theme=dark"></a>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> My top open source projects
 
 <p align="left">
-    <a href="https://github.com/aliiakbarkhan/tekken-VIII-website-project"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=tekken-VIII-website-project&hide_border=true&theme=vision-friendly-dark&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/aliiakbarkhan/hackerrank-solutions"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=aliiakbarkhan&repo=hackerrank-solutions&theme=vision-friendly-dark&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+    <a href="https://github.com/aliiakbarkhan/women-safety-prototype"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=women-safety-prototype&hide_border=true&theme=dark&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/aliiakbarkhan/the-fallen-knight-game"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=aliiakbarkhan&repo=the-fallen-knight-game&theme=dark&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 </p>
 <p align="left">
   <a href="https://github.com/aliiakbarkhan?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
