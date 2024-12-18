@@ -91,28 +91,14 @@
   <a href="https://github.com/aliiakbarkhan?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
-<div align="center"> 
-  
-<!--   <h2>🐍 Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-</div> -->
-
-<h2 align="center">Leetcode Info<h2>  
-<!-- <p align="center">
-  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
-</p> -->
-<p align="center">
-  
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/aliiakbarkhan?theme=dark&font=Nunito&ext=heatmap" />  
-</p>
 
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Social Accounts
+
+
 
 <div align="center">
+  
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Social Accounts
     
 <a href="https://www.linkedin.com/in/aliakbar-khan/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://www.instagram.com/khan._.ali07">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
@@ -127,31 +113,15 @@
 
 
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Portfolio
 
 <div align="center">
+  
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Portfolio
     
 [![App Platorm](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHU1bzFpOTl4ZjhkcG1vMTh6YzhtNjVyZG1jcTg3enliN3VpZzVqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ispEc1253326c/giphy.gif)](https://bento.me/aliakbarkhan)
 
 #### (click on the gif)
 </div>
-
-
-# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Photoshop Posters
-<p align="center">
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-13.2.png" width="30%"/>    
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-12.2.png" width="30%"/>        
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-13.1.png" width="30%"/>  
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-13.3.png" width="30%"/>  
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-14.1.png" width="30%"/>  
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-14.png" width="30%"/>  
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-16.1.png" width="30%"/>
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-16.2.png" width="30%"/>
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-16.png" width="30%"/>
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-17.1.png" width="30%"/>
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-17.png" width="30%"/>
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-21.1.png" width="30%"/>
-</p>
 
 
 
