@@ -1,11 +1,11 @@
 
-# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Hey There, I'm
-<div align="center">
-    
-![header](https://github.com/user-attachments/assets/5ee7a308-f45f-45df-9627-18e0edb1f236)
+<h2 align="center">Hi, I'm Ali Akbar Khan <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" /></h2>
 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7C300&width=435&lines=Welcome+to+my+Github+Profile;I'm+a+Java+Devloper" alt="Typing SVG" /></a>
+<img align="middle" alt="GIF" src="https://camo.githubusercontent.com/dd9b4a35c79a57583ccfc38c3512469e375ebae578f7a90aa020f57748a81dfc/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f68642f3232383733353133373131393831312e363230353437323462616630622e676966" />
+</p>
 
-</div>
 
 <p>
   
@@ -73,7 +73,9 @@
 
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Github Stats
-
+  <a align='center' href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=aliiakbarkhan&label=Profile%20Views&color=0&icon=0&pretty=true" />
+</a>
 <img align="right" width="38%" src="https://github.com/user-attachments/assets/c0ac85bf-be7d-4b27-be2f-17b7f50615b7"/>
 
   <a href="https://github.com/aliiakbarkhan"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=aliiakbarkhan&theme=dark"></a>
