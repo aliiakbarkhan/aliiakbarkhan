@@ -76,7 +76,7 @@
   <a align='center' href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=aliiakbarkhan&label=Profile%20Views&color=0&icon=0&pretty=true" />
 </a>
-<img align="right" width="38%" src="https://github.com/user-attachments/assets/c0ac85bf-be7d-4b27-be2f-17b7f50615b7"/>
+<img align="right" alt="GIF" width="38%" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/dilnt6z-4ec24504-c0e5-4dab-b86e-787944711689.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGlsbnQ2ei00ZWMyNDUwNC1jMGU1LTRkYWItYjg2ZS03ODc5NDQ3MTE2ODkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fWB-9Ag4afK11ctnn2rLFDkDehEGOxKQZdflmEdfx6Y"/>
 
   <a href="https://github.com/aliiakbarkhan"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=aliiakbarkhan&theme=dark"></a>
   <a href="https://github.com/aliiakbarkhan"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=aliiakbarkhan&theme=dark"></a>
