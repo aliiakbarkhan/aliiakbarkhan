@@ -20,20 +20,19 @@
 <img src="https://skillicons.dev/icons?i=mysql,ps,pycharm,py,visualstudio,vscode,wordpress&theme=dark" />
 </a>
 </p>
-
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Social Accounts
-
-
-  
-
-
-<a href="https://www.linkedin.com/in/aliakbar-khan/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://www.instagram.com/khan._.ali07">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-<a href="https://www.youtube.com/channel/UClYAED0QKX6ggIYaVL10Drg">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
-<a href="aliakbarkhana79@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://www.pinterest.com/udkalii">![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)</a>
-<a href="">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
-<a href="https://www.youtube.com/channel/UClYAED0QKX6ggIYaVL10Drg">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
-<a href="https://www.instagram.com/threads/khan._.ali07">![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)</a>
+<h2 align = "center">Social</h2>
+<p align="center">
+<a href="https://www.linkedin.com/in/aliakbar-khan/">
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+</a>
+<a href="https://www.instagram.com/aliiakbarkhan">
+<img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
+</a>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=discord&theme=dark" />
+</a>
+<a href="aliakbarkhana79@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+</a>
+</p>
 </div>
