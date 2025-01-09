@@ -1,5 +1,5 @@
 
-<h2 align="center">Hi, I'm Ali Akbar Khan <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" /></h2>
+<h2 align="center">Hi, I'm Ali Akbar Khan</h2>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7C300&width=435&lines=Welcome%2C+to+my+Github+Profile;I'm+a+Java+Devloper+and+more" alt="Typing SVG" /></a>
@@ -10,26 +10,10 @@
 <p>
   
 #### Hi, I am **Ali Akbar Khan** an enthusiastic and ambitious Computer Science Student, Founder at [@Tech10.in](https://www.instagram.com/tech10.in/), and Java Developer. I specialize in Web Development, Game Development, and Graphics Design. I love to network, join new communities, and add value.
-<div>
-<details>
-  <summary>More about me</summary>
 
-- I’m currently on a journey to build **great** things
-
-- I’m currently learning **everything**
-
-- I’m looking for help with **finding projects to contribute to!**
-
-- All of my projects are available at [LinkedIn](https://www.linkedin.com/in/aliakbar-khan/)
-
-- Ask me about **Programming, web development, and Graphics Design**
-
-- Reach me out at **aliakabrkhana79@gmail.com**
-
-</details>
-  
 </p>
-
+<div>
+<h2 align = "center">Skills</h2>
 <p align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,ae,anaconda,blender,bootstrap,c,cpp,css,github,git,godot,html&theme=dark" />
