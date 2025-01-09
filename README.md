@@ -32,7 +32,8 @@
 
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,ae,anaconda,blender,bootstrap,c,cpp,css,github,git,godot,html,mysql,ps,pycharm,py,visualstudio,vscode,wordpress&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,ae,anaconda,blender,bootstrap,c,cpp,css,github,git,godot,html&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,ps,pycharm,py,visualstudio,vscode,wordpress&theme=dark" />
 </a>
 </p>
 
