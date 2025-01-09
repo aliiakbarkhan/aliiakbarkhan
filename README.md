@@ -20,19 +20,4 @@
 <img src="https://skillicons.dev/icons?i=mysql,ps,pycharm,py,visualstudio,vscode,wordpress&theme=dark" />
 </a>
 </p>
-<h2 align = "center">Social</h2>
-<p align="center">
-<a href="https://www.linkedin.com/in/aliakbar-khan/">
-<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
-</a>
-<a href="https://www.instagram.com/aliiakbarkhan">
-<img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
-</a>
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=discord&theme=dark" />
-</a>
-<a href="aliakbarkhana79@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
-</a>
-</p>
 </div>
