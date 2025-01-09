@@ -15,9 +15,10 @@
 <div>
 <h2 align = "center">Skills</h2>
 <p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,ae,anaconda,blender,bootstrap,c,cpp,css,github,git,godot,html&theme=dark" />
-<img src="https://skillicons.dev/icons?i=mysql,ps,pycharm,py,visualstudio,vscode,wordpress&theme=dark" />
-</a>
+
+<img src="https://skillicons.dev/icons?i=java,nodejs,figma,ae,anaconda,blender,bootstrap,c,cpp,css,github,git,godot,html&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,ps,pycharm,py,visualstudio,vscode,wordpress,&theme=dark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=behance,canva,notepadpp,notion,jupyter,pandas,leetcode," />
 </p>
+
 </div>
