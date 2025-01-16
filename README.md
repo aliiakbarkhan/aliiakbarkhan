@@ -10,15 +10,21 @@
 
 ---
 
-## 👨‍💻 Technical Skills
+<div>
+<details>
+  <summary>👨‍💻 Technical Skills</summary>
 
 - **Programming Languages**: Java, C, Python, SQL, JavaScript, HTML, CSS, Godot Script  
 - **Specializations**: AI, Data Analytics & Visualization, Game Development, Web Development, UX/UI Design, Graphics Design  
 - **Tools**: Data Science Notebooks, Photoshop, Figma, VS Code, PyCharm, Git, Godot  
 
----
+</details>
+</div>
 
-## 💼 Work Experience
+---
+<div>
+<details>
+  <summary>💼 Work Experience</summary>
 
 ### Tech10.in, Jaipur (Sep 2023 – Present)  
 **Founder**  
@@ -33,9 +39,13 @@
 **Campus Ambassador**  
 - Coordinated campus outreach initiatives, ensuring effective communication with over 600 individuals to achieve target visibility.  
 
----
+</details>
+</div>
 
-## 🎓 Education
+---
+<div>
+<details>
+  <summary>🎓 Education</summary>
 
 - **Arya College of Engineering, Jaipur** (Sep 2023 – Present)  
   **B. Tech in Computer Science** | CGPA: 8.32/10  
@@ -45,9 +55,13 @@
   **High School Diploma** | Percentage: 70%  
   *Relevant Coursework*: Basics of Computer, Algorithms, Web Development, Information Practices  
 
----
+</details>
+</div>
 
-## 🔨 Project Work
+---
+<div>
+<details>
+  <summary>🔨 Project Work</summary>
 
 <div align="center">
     <a href="https://github.com/aliiakbarkhan/women-safety-prototype">
@@ -69,11 +83,13 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=tekken-VIII-website&theme=calm_pink" alt="SoundState Repo">
     </a>
 </div>
-
+</details>
+</div>
 
 ---
-
-## 🏆 Awards and Certificates
+<div>
+<details>
+  <summary>🏆 Awards and Certificates</summary>
 
 ### Data Analysis and AI Certifications  
 - Career Essentials in Data Analysis – Microsoft & LinkedIn  
@@ -102,6 +118,10 @@
 
 ### Industry Exposure  
 - Young Industry Enthusiast, Capital Markets – Infosys Springboard  
+
+</details>
+</div>
+
 
 ---
 
