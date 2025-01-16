@@ -8,9 +8,6 @@
 </p>
 
 
-📧 aliakbarkhana79@gmail.com | 📱 +91 8000939156  
-🌐 [GitHub](https://github.com/aliiakbarkhan) | [LinkedIn](https://www.linkedin.com/in/aliakbar-khan)
-
 ---
 
 ## 👨‍💻 Technical Skills
