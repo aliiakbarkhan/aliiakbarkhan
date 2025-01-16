@@ -46,22 +46,22 @@
 ## 🔨 Project Work
 
 <div align="center">
-    <a href="https://github.com/weepotty/soundstate#gh-dark-mode-only">
+    <a href="https://github.com/aliiakbarkhan/women-safety-prototype">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=aliiakbarkhan&repo=women-safety-prototype&theme=github_dark#gh-dark-mode-only" alt="SoundState Repo">
     </a>
-    <a href="https://github.com/weepotty/soundstate#gh-dark-mode-only">
+    <a href="https://github.com/aliiakbarkhan/poke-hunt-rpg-game">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=aliiakbarkhan&repo=poke-hunt-rpg-game&theme=github_dark#gh-dark-mode-only" alt="SoundState Repo">
     </a>
-    <a href="https://github.com/weepotty/soundstate#gh-dark-mode-only">
+    <a href="https://github.com/aliiakbarkhan/broken-hero-game">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=aliiakbarkhan&repo=broken-hero-game&theme=github_dark#gh-dark-mode-only" alt="SoundState Repo">
     </a>
-    <a href="https://github.com/weepotty/soundstate#gh-dark-mode-only">
+    <a href="https://github.com/aliiakbarkhan/the-fallen-knight-game">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=aliiakbarkhan&repo=the-fallen-knight-game&theme=github_dark#gh-dark-mode-only" alt="SoundState Repo">
     </a>
-    <a href="https://github.com/weepotty/soundstate#gh-dark-mode-only">
+    <a href="https://github.com/aliiakbarkhan/nike-website-prototype">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=aliiakbarkhan&repo=nike-website-prototype&theme=github_dark#gh-dark-mode-only" alt="SoundState Repo">
     </a>
- <a href="https://github.com/weepotty/soundstate#gh-dark-mode-only">
+ <a href="https://github.com/aliiakbarkhan/tekken-VIII-website">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=aliiakbarkhan&repo=tekken-VIII-website&theme=github_dark#gh-dark-mode-only" alt="SoundState Repo">
     </a>
 </div>
