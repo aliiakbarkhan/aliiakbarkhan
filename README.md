@@ -47,31 +47,31 @@
 
 ### Women Safety Application (2024)  
 - Designed and simulated a real-time SOS and location tracking application, ensuring effective communication protocols and rapid user response.  
-- [GitHub](https://github.com/aliiakbarkhan/women-safety-prototype)
+- [Women Safety Application Repository](https://github.com/aliiakbarkhan/women-safety-prototype)
 
 ### The Poke-Hunter RPG Game (2024)  
 - Developed a single-player RPG in Godot and Godot Script, featuring creature hunting, training, and strategic battles across diverse environments.  
-- [GitHub](https://github.com/aliiakbarkhan/poke-hunt-rpg-game)
+- [The Poke-Hunter RPG Game Repository](https://github.com/aliiakbarkhan/poke-hunt-rpg-game)
 
 ### Broken Hero RPG Game (2024)  
 - Developed a high-pressure scenario simulation game, demonstrating real-time decision-making and conflict resolution skills in fast-paced environments.  
-- [GitHub](https://github.com/aliiakbarkhan/broken-hero-game)
+- [Broken Hero RPG Game Repository](https://github.com/aliiakbarkhan/broken-hero-game)
 
 ### The Fallen Knight Game (2024)  
 - Single-player adventure game created with Godot and Godot Script, featuring epic battles and exploration.  
-- [GitHub](https://github.com/aliiakbarkhan/the-fallen-knight-game)
+- [The Fallen Knight Game Repository](https://github.com/aliiakbarkhan/the-fallen-knight-game)
 
 ### Pinterest’s Landing Page (2024)  
 - Designed Pinterest loading screen prototype in Figma, focusing on icon efficiency and streamlined workflow.  
-- [GitHub](https://github.com/aliiakbarkhan/pintrests-animetion-prototype)
+- [Pinterest’s Landing Page Repository](https://github.com/aliiakbarkhan/pintrests-animetion-prototype)
 
 ### Nike’s Website Upgraded Clone (2024)  
 - Developed a high-fidelity, responsive prototype of Nike's website in Figma, featuring interactive components and cohesive design aligned with Nike’s brand identity.  
-- [GitHub](https://github.com/aliiakbarkhan/nike-website-prototype)
+- [Nike’s Website Upgraded Clone Repository](https://github.com/aliiakbarkhan/nike-website-prototype)
 
 ### Tekken 8’s Website Upgraded Clone (2024)  
 - Designed an upgraded clone of Tekken 8’s website with interactive features, character profiles, and tournament updates.  
-- [GitHub](https://github.com/aliiakbarkhan/tekken-VIII-website)
+- [Tekken 8’s Website Upgraded Clone Repository](https://github.com/aliiakbarkhan/tekken-VIII-website)
 
 ---
 
