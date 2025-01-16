@@ -22,7 +22,15 @@
 - **Programming Languages**: Java, C, Python, SQL, JavaScript, HTML, CSS, Godot Script  
 - **Specializations**: AI, Data Analytics & Visualization, Game Development, Web Development, UX/UI Design, Graphics Design  
 - **Tools**: Data Science Notebooks, Photoshop, Figma, VS Code, PyCharm, Git, Godot  
+<div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,nodejs,figma,ae,anaconda,blender,bootstrap,c,cpp,css,github,git,godot,html" />
+</p>
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,ps,pycharm,py,visualstudio,vscode,wordpress,behance,canva,notepadpp,notion,jupyter,leetcode,youtube" />
+</p>
 
+</div>
 </details>
 </div>
 
