@@ -89,8 +89,8 @@
     <a href="https://github.com/aliiakbarkhan/nike-website-prototype">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=nike-website-prototype&theme=calm_pink" alt="SoundState Repo">
     </a>
-     <a href="https://github.com/aliiakbarkhan/the-fallen-knight-game">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=the-fallen-knight-game&theme=calm_pink" alt="SoundState Repo">
+     <a href="https://github.com/aliiakbarkhan/photoshop-posters">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=photoshop-posters&theme=calm_pink" alt="SoundState Repo">
     </a>
  <a href="https://github.com/aliiakbarkhan/tekken-VIII-website">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=tekken-VIII-website&theme=calm_pink" alt="SoundState Repo">
