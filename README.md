@@ -45,7 +45,14 @@
 <div>
 <details>
   <summary>💼 Work Experience</summary>
+<br>
+<div>
+<p align="center">
+<img align="middle" alt="GIF" src="https://github.com/user-attachments/assets/8c976972-379c-4431-b878-f3dca138025c" />
+</p>
+</div>
 
+  
 ### Tech10.in, Jaipur (Sep 2023 – Present)  
 **Founder**  
 - Directed the development of innovative tech solutions, ensuring real-time implementation and system coordination for maximum efficiency.  
@@ -66,6 +73,12 @@
 <div>
 <details>
   <summary>🎓 Education</summary>
+<br>
+<div>
+<p align="center">
+<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/15b7fbe4-92df-498d-a75d-38f28843718d" />
+
+
 
 - **Arya College of Engineering, Jaipur** (Sep 2023 – Present)  
   **B. Tech in Computer Science** | CGPA: 8.32/10  
@@ -75,6 +88,8 @@
   **High School Diploma** | Percentage: 70%  
   *Relevant Coursework*: Basics of Computer, Algorithms, Web Development, Information Practices  
 
+</p>
+</div>
 </details>
 </div>
 
