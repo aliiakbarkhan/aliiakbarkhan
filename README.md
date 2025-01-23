@@ -19,6 +19,13 @@
 <details>
   <summary>👨‍💻 Technical Skills</summary>
 
+<br>
+<div>
+<p align="center">
+<img align="middle" alt="GIF" src="https://github.com/user-attachments/assets/74c577a0-fec1-47c9-badc-00a628c2a0e4" />
+</p>
+</div>
+
 - **Programming Languages**: Java, C, Python, SQL, JavaScript, HTML, CSS, Godot Script  
 - **Specializations**: AI, Data Analytics & Visualization, Game Development, Web Development, UX/UI Design, Graphics Design  
 - **Tools**: Data Science Notebooks, Photoshop, Figma, VS Code, PyCharm, Git, Godot  
