@@ -131,6 +131,12 @@
 <div>
 <details>
   <summary>🏆 Awards and Certificates</summary>
+<br>
+<div>
+<p align="center">
+<img align="middle" alt="GIF" width="100%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RyeGV5Zm9ldWk3dWFzenk1a3lhY2Q3ZzFuM2llazgxempheWZ0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f9jxYYRVPHtKsCf9sy/giphy.gif" />
+</p>
+</div>
 
 ### Data Analysis and AI Certifications  
 - Career Essentials in Data Analysis – Microsoft & LinkedIn  
