@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7C300&width=435&lines=Welcome%2C+to+my+Github+Profile;I'm+a+Java+Developer+and+more" alt="Typing SVG" /></a>
-<img align="middle" alt="GIF" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/derewio-1d534a30-bf98-4e95-b876-267b0bfea1a1.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGVyZXdpby0xZDUzNGEzMC1iZjk4LTRlOTUtYjg3Ni0yNjdiMGJmZWExYTEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MAHYh1Xpqjv-R0cSZtCRbmyO13JzitShLyOvTdYtJ9g" />
+<img align="middle" alt="GIF" width="100%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2t5MnlzNHp3bmd4ZjVuMmM0NXZ6NTBuaGUzN2E4d3J4ZWdja2l6NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x8UkMQ5xIL4qY/giphy.gif" />
 </p>
 
 <p>
@@ -20,21 +20,22 @@
   <summary>👨‍💻 Technical Skills</summary>
 
 <br>
-<div>
-<p align="center">
-<img align="middle" alt="GIF" src="https://github.com/user-attachments/assets/74c577a0-fec1-47c9-badc-00a628c2a0e4" />
-</p>
-</div>
+<p align = "center">
 
-- **Programming Languages**: Java, C, Python, SQL, JavaScript, HTML, CSS, Godot Script  
-- **Specializations**: AI, Data Analytics & Visualization, Game Development, Web Development, UX/UI Design, Graphics Design  
-- **Tools**: Data Science Notebooks, Photoshop, Figma, VS Code, PyCharm, Git, Godot  
-<div>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,nodejs,figma,ae,anaconda,blender,bootstrap,c,cpp,css,github,git,godot,html" />
-</p>
-<p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,ps,pycharm,py,visualstudio,vscode,wordpress,behance,canva,notepadpp,notion,jupyter,leetcode,youtube" />
+  
+| Category        | Skills        |
+|-----------------|---------------|
+| Languages       | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /> |
+| Styling & Frameworks | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />  |
+| Database |<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> |
+| Services & Tools|<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>  |
+| Competitive Coding | <a href="https://leetcode.com/aliiakbarkhan/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/> <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> |
+| IDE & Environment | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/replit-F26207?style=for-the-badge&logo=replit&logoColor=white" /> <img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" /> <img src="https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white" /> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" /> <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" /> |
+| Hosting         | <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/> <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white"/> |
+| APIs | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" /> <img src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white" /> <img src="https://img.shields.io/badge/foursquare-3333FF?style=for-the-badge&logo=Unsplash&logoColor=white" /> |
+| Design Tools    | <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <a href="https://dribbble.com//"><img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" /></a><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" /> |
+| Learning | <a href="https://www.coursera.org/user/69e4ae79233b116200019fb3f9111083"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /></a> <img src="https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white" /> <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /> <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" /> <img src="https://img.shields.io/badge/Udacity-02B3E4?style=for-the-badge&logo=udacity&logoColor=white" /> |
+
 </p>
 
 </div>
@@ -48,7 +49,7 @@
 <br>
 <div>
 <p align="center">
-<img align="middle" alt="GIF" src="https://github.com/user-attachments/assets/8c976972-379c-4431-b878-f3dca138025c" />
+<img align="middle" alt="GIF" width = "100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmtrZHdvNGRlaGtzZXkxajFteTh5ZHF3OXp5aDJieXp5c3lyZHpmciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zwPRprvrP4Lm0/giphy.gif" />
 </p>
 </div>
 
@@ -76,7 +77,7 @@
 <br>
 <div>
 <p align="center">
-<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/15b7fbe4-92df-498d-a75d-38f28843718d" />
+<img align="middle" alt="GIF" width="100%" src="https://media.giphy.com/media/3ohzdLD2vN09ZavdqU/giphy.gif?cid=ecf05e47b03tzvudijj9lcgrec5f9yt7e21tuhfmhc10okn1&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
 
 
@@ -97,7 +98,12 @@
 <div>
 <details>
   <summary>🔨 Project Work</summary>
-
+<br>
+<div>
+<p align="center">
+<img align="middle" alt="GIF" width="100%" src="https://media.giphy.com/media/C1U9zEg0gS8mY/giphy.gif?cid=ecf05e476l9e2s0i7phmdgm05tkzyqsycmma4g0jyt5r3i0w&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+</p>
+</div>
 <div align="center">
     <a href="https://github.com/aliiakbarkhan/women-safety-prototype">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=women-safety-prototype&theme=calm_pink" alt="SoundState Repo">
