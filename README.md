@@ -105,26 +105,26 @@
 <img align="middle" alt="GIF" width="100%" src="https://media.giphy.com/media/C1U9zEg0gS8mY/giphy.gif?cid=ecf05e476l9e2s0i7phmdgm05tkzyqsycmma4g0jyt5r3i0w&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 </p>
 </div>
-<div align="center">
+<p align="center">
     <a href="https://github.com/aliiakbarkhan/women-safety-prototype">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=women-safety-prototype&theme=calm_pink" alt="SoundState Repo">
+        <img width="330" src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=women-safety-prototype&theme=calm_pink" alt="SoundState Repo">
     </a>
     <a href="https://github.com/aliiakbarkhan/poke-hunt-rpg-game">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=poke-hunt-rpg-game&theme=calm_pink" alt="SoundState Repo">
+        <img width="330" src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=poke-hunt-rpg-game&theme=calm_pink" alt="SoundState Repo">
     </a>
     <a href="https://github.com/aliiakbarkhan/broken-hero-game">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=broken-hero-game&theme=calm_pink" alt="SoundState Repo">
+        <img width="330" src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=broken-hero-game&theme=calm_pink" alt="SoundState Repo">
     </a>
     <a href="https://github.com/aliiakbarkhan/nike-website-prototype">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=nike-website-prototype&theme=calm_pink" alt="SoundState Repo">
+        <img width="330" src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=nike-website-prototype&theme=calm_pink" alt="SoundState Repo">
     </a>
      <a href="https://github.com/aliiakbarkhan/photoshop-posters">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=photoshop-posters&theme=calm_pink" alt="SoundState Repo">
+        <img width="330" src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=photoshop-posters&theme=calm_pink" alt="SoundState Repo">
     </a>
  <a href="https://github.com/aliiakbarkhan/tekken-VIII-website">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=tekken-VIII-website&theme=calm_pink" alt="SoundState Repo">
+        <img width="330" src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=tekken-VIII-website&theme=calm_pink" alt="SoundState Repo">
     </a>
-</div>
+</p>
 </details>
 </div>
 
