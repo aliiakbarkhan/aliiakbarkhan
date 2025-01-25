@@ -49,7 +49,7 @@
 <br>
 <div>
 <p align="center">
-<img align="middle" alt="GIF" width = "100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmtrZHdvNGRlaGtzZXkxajFteTh5ZHF3OXp5aDJieXp5c3lyZHpmciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zwPRprvrP4Lm0/giphy.gif" />
+<img align="middle" alt="GIF" width = "100%" src="https://giffiles.alphacoders.com/220/220069.gif" />
 </p>
 </div>
 
