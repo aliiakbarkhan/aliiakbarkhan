@@ -47,25 +47,34 @@
 <details>
   <summary>💼 Work Experience</summary>
 <br>
-<div>
-<p align="center">
-<img align="middle" alt="GIF" width = "100%" src="https://media.giphy.com/media/oYQRuoYd6btVNAh75z/giphy.gif?cid=790b7611r465sfz4c84cdmou33woxnlszlojycguwo5qnpzm&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
-</p>
-</div>
-
   
-### Tech10.in, Jaipur (Sep 2023 – Present)  
-**Founder**  
-- Directed the development of innovative tech solutions, ensuring real-time implementation and system coordination for maximum efficiency.  
-- Managed cross-functional team collaboration to optimize operational performance, achieving a 91% improvement in productivity.
+| Avengers       | My Hero Academia      |
+|-----------------|---------------|
+| <img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/ID%20CARDS/2.png"/> | <img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/ID%20CARDS/3.png"/> |
 
-### Cook N Klein, Bangalore (Apr 2024 - May 2024)  
-**Graphics Design Intern**  
-- Designed 31 graphics that boosted social media engagement and brand recognition, driving customer engagement growth.
+| Oscorp       | Stark Industries      |
+|-----------------|---------------|
+| <img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/ID%20CARDS/5.png"/> | <img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/ID%20CARDS/6.png"/> |
 
-### Fluxus IIT Indore, Indore (Nov 2023 - Feb 2024)  
-**Campus Ambassador**  
-- Coordinated campus outreach initiatives, ensuring effective communication with over 600 individuals to achieve target visibility.  
+| UA High School       | Karasuno Vollyball Team      |
+|-----------------|---------------|
+| <img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/ID%20CARDS/7.png"/> | <img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/ID%20CARDS/8.png"/> |
+
+| Hydra      | SHIELD     |
+|-----------------|---------------|
+| <img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/ID%20CARDS/13.png"/> | <img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/ID%20CARDS/14.png"/> |
+
+| DAILY BUGLE      | ARKHAM ASYLUM    |
+|-----------------|---------------|
+| <img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/ID%20CARDS/1.png"/> | <img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/ID%20CARDS/4.png"/> |
+
+| JUJUTSU HIGH      | FBI    |
+|-----------------|---------------|
+| <img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/ID%20CARDS/9.png"/> | <img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/ID%20CARDS/10.png"/> |
+
+| STARK INDUSTRIES     | SHIELD AGENT    |
+|-----------------|---------------|
+| <img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/ID%20CARDS/12.png"/> | <img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/ID%20CARDS/11.png"/> |
 
 </details>
 </div>
@@ -75,22 +84,12 @@
 <details>
   <summary>🎓 Education</summary>
 <br>
-<div>
-<p align="center">
-<img align="middle" alt="GIF" width="100%" src="https://media.giphy.com/media/7Lo9YcktGUi6xuNVun/giphy.gif?cid=790b7611r465sfz4c84cdmou33woxnlszlojycguwo5qnpzm&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+
+| STUDENT FILE     | ADMISSION LETTER    | STUDENT ID |
+|-----------------|---------------|---------------|
+| <img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/ID%20CARDS/15.png"/> | <img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/ID%20CARDS/16.png"/> | <img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/ID%20CARDS/17.png"/>  |
 
 
-
-- **Arya College of Engineering, Jaipur** (Sep 2023 – Present)  
-  **B. Tech in Computer Science** | CGPA: 8.32/10  
-  *Relevant Coursework*: Data Structures, Algorithms, Machine Learning, Databases, Operating Systems, Computer Networks  
-
-- **Kendriya Vidyalaya Jhalawar** (May 2011 – Feb 2023)  
-  **High School Diploma** | Percentage: 70%  
-  *Relevant Coursework*: Basics of Computer, Algorithms, Web Development, Information Practices  
-
-</p>
-</div>
 </details>
 </div>
 
