@@ -99,11 +99,6 @@
 <details>
   <summary>🔨 Project Work</summary>
 <br>
-<div>
-<p align="center">
-<img align="middle" alt="GIF" width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjQ2NXNmejRjODRjZG1vdTMzd294bmxzemxvanljZ3V3bzVxbnB6bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dBsJwo17cbYvs8vqfx/giphy.gif" />
-</p>
-</div>
 <p align="center">
     <a href="https://github.com/aliiakbarkhan/women-safety-prototype">
         <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=women-safety-prototype&theme=calm_pink" alt="SoundState Repo">
@@ -132,11 +127,6 @@
 <details>
   <summary>🏆 Awards and Certificates</summary>
 <br>
-<div>
-<p align="center">
-<img align="middle" alt="GIF" width="100%" src="https://media.giphy.com/media/0ZMJeiQg7g3aFPT3DV/giphy.gif?cid=790b7611r465sfz4c84cdmou33woxnlszlojycguwo5qnpzm&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
-</p>
-</div>
 
 ### Data Analysis and AI Certifications  
 - Career Essentials in Data Analysis – Microsoft & LinkedIn  
