@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7C300&width=435&lines=Welcome%2C+to+my+Github+Profile;I'm+a+Java+Developer+and+more" alt="Typing SVG" /></a>
-<img align="middle" alt="GIF" width="100%" src="https://giffiles.alphacoders.com/221/221581.gif" />
+<img align="middle" alt="GIF" width="100%" src="https://media.giphy.com/media/8zYunr3Hg8XPq/giphy.gif?cid=790b7611c6u27xws5fq2opz96c4z5zof659uefe51jmrc84u&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 </p>
 
 <p>
@@ -49,7 +49,7 @@
 <br>
 <div>
 <p align="center">
-<img align="middle" alt="GIF" width = "100%" src="https://giffiles.alphacoders.com/220/220069.gif" />
+<img align="middle" alt="GIF" width = "100%" src="https://media.giphy.com/media/oYQRuoYd6btVNAh75z/giphy.gif?cid=790b7611r465sfz4c84cdmou33woxnlszlojycguwo5qnpzm&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 </p>
 </div>
 
@@ -77,7 +77,7 @@
 <br>
 <div>
 <p align="center">
-<img align="middle" alt="GIF" width="100%" src="https://media.giphy.com/media/3ohzdLD2vN09ZavdqU/giphy.gif?cid=ecf05e47b03tzvudijj9lcgrec5f9yt7e21tuhfmhc10okn1&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+<img align="middle" alt="GIF" width="100%" src="https://media.giphy.com/media/7Lo9YcktGUi6xuNVun/giphy.gif?cid=790b7611r465sfz4c84cdmou33woxnlszlojycguwo5qnpzm&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
 
 
@@ -102,7 +102,7 @@
 <br>
 <div>
 <p align="center">
-<img align="middle" alt="GIF" width="100%" src="https://media.giphy.com/media/C1U9zEg0gS8mY/giphy.gif?cid=ecf05e476l9e2s0i7phmdgm05tkzyqsycmma4g0jyt5r3i0w&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+<img align="middle" alt="GIF" width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjQ2NXNmejRjODRjZG1vdTMzd294bmxzemxvanljZ3V3bzVxbnB6bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dBsJwo17cbYvs8vqfx/giphy.gif" />
 </p>
 </div>
 <p align="center">
@@ -135,7 +135,7 @@
 <br>
 <div>
 <p align="center">
-<img align="middle" alt="GIF" width="100%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RyeGV5Zm9ldWk3dWFzenk1a3lhY2Q3ZzFuM2llazgxempheWZ0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f9jxYYRVPHtKsCf9sy/giphy.gif" />
+<img align="middle" alt="GIF" width="100%" src="https://media.giphy.com/media/0ZMJeiQg7g3aFPT3DV/giphy.gif?cid=790b7611r465sfz4c84cdmou33woxnlszlojycguwo5qnpzm&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 </p>
 </div>
 
