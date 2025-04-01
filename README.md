@@ -134,8 +134,9 @@ Passionate photographer specializing in landscape, street, and portrait photogra
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliiakbarkhan&show_icons=true&theme=radical" alt="GitHub Stats">
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=aliiakbarkhan&show_icons=true&theme=radical" alt="GitHub Stats"></p>
+<p align = "right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliiakbarkhan&theme=radical" alt="GitHub Streak">
 </p>
 
@@ -147,19 +148,40 @@ Passionate photographer specializing in landscape, street, and portrait photogra
 
 ## 🏆 Achievements & Certifications
 
-- 🥇 Winner, Regional Game Development Hackathon (2023)
-- 🎓 AWS Certified Solutions Architect
-- 🏅 Adobe Certified Expert in Photoshop & Illustrator
-- 📚 Published Technical Author on Medium & Dev.to
-- 🎮 Featured Developer in Unity Showcase
-- 🎨 Design Award Finalist, International UX Awards
+### Data Analysis and AI Certifications  
+- Career Essentials in Data Analysis – Microsoft & LinkedIn  
+- Introduction to Data Analytics (Foundations & Core Knowledge) – LinkedIn  
+- Introduction to Artificial Intelligence – Skillsoft  
+
+### Generative AI and Prompt Engineering  
+- Generative AI Certification – Microsoft & LinkedIn  
+- Foundations of Prompt Engineering – AWS  
+- What is Generative AI and Ethics in Generative AI – Google Cloud  
+- Generative AI: The Evolution of Thoughtful Online Search – LinkedIn  
+
+### Cloud Computing and Digital Transformation  
+- Digital Transformation, Infrastructure & Application Modernization – Google Cloud  
+- Understanding Google Cloud Security and Operations – Google Cloud  
+- Innovating with Data on Google Cloud – Google Cloud  
+- Low-Code Machine Learning – AWS  
+
+### Productivity and Tools  
+- Streamlining Work with Microsoft Copilot and Learning Microsoft 365 Copilot – Microsoft  
+- Internet of Things Applications – Skillsoft  
+
+### Programming and Development  
+- ChatGPT for Developers – Up Grad  
+- Java Programming and Excel for Beginners – Great Learning  
+
+### Industry Exposure  
+- Young Industry Enthusiast, Capital Markets – Infosys Springboard  
 
 ---
 
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:contact@aliiakbarkhan.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:contact@aliakbarkhana79@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://linkedin.com/in/aliiakbarkhan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/aliiakbarkhan"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://instagram.com/aliiakbarkhan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
