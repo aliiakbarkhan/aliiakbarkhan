@@ -46,11 +46,11 @@
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| **E-Commerce Platform** | Fully responsive e-commerce solution with payment integration | React.js, Node.js, MongoDB | [Repo](https://github.com/aliiakbarkhan/ecommerce-platform) |
-| **AI Image Generator** | Web app that generates images based on text prompts | Python, TensorFlow, Flask | [Repo](https://github.com/aliiakbarkhan/ai-image-generator) |
-| **Task Management System** | Collaborative task manager with real-time updates | React, Firebase, Redux | [Repo](https://github.com/aliiakbarkhan/task-manager) |
-| **Social Media Dashboard** | Analytics dashboard for social media management | Vue.js, D3.js, Express | [Repo](https://github.com/aliiakbarkhan/social-dashboard) |
-| **Blockchain Explorer** | Tool for visualizing and exploring blockchain data | JavaScript, Web3.js, Chart.js | [Repo](https://github.com/aliiakbarkhan/blockchain-explorer) |
+| **Med-E-Safe** | A highly secure web app for managing medical records | HTML, CSS, JAVA, Bootstrap | [Repo](https://github.com/aliiakbarkhan/med-e-safe) |
+| **Java Programming Codes** | Ideal for beginners preparing for coding interviews or enhancing problem-solving skills | Java | [Repo](https://github.com/aliiakbarkhan/jubilant-java-tree) |
+| **Tekken 8 Website** | modern redesign of the iconic fighting game’s online presence | HTML5, CSS3, Bootstrap | [Repo](https://github.com/aliiakbarkhan/tekken-VIII-website) |
+| **C Language Codes** | C Language programs from biginner to advance level | C Language | [Repo](https://github.com/aliiakbarkhan/effective-basics) |
+| **Pac Man Game** | A classic PACMAN game developed in Java, inspired by Kenny Jim Coding's tutorial. | Java | [Repo](https://github.com/aliiakbarkhan/pacman-java-game) |
 
 ---
 
