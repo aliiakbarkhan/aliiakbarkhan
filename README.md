@@ -15,14 +15,10 @@
 
 ---
 
-<div>
-<details>
-  <summary>👨‍💻 Technical Skills</summary>
+## 🛠️ Tech Stack & Tools
 
-<br>
 <p align = "center">
 
-  
 | Category        | Skills        |
 |-----------------|---------------|
 | Languages       | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /> |
@@ -38,117 +34,126 @@
 
 </p>
 
-</div>
-</details>
-</div>
-
----
-<div>
-<details>
-  <summary>💼 Work Experience</summary>
-<br>
-  
-### Tech10.in, Jaipur (Sep 2023 – Present)  
-**Founder**  
-- Directed the development of innovative tech solutions, ensuring real-time implementation and system coordination for maximum efficiency.  
-- Managed cross-functional team collaboration to optimize operational performance, achieving a 91% improvement in productivity.
-
-### Cook N Klein, Bangalore (Apr 2024 - May 2024)  
-**Graphics Design Intern**  
-- Designed 31 graphics that boosted social media engagement and brand recognition, driving customer engagement growth.
-
-### Fluxus IIT Indore, Indore (Nov 2023 - Feb 2024)  
-**Campus Ambassador**  
-- Coordinated campus outreach initiatives, ensuring effective communication with over 600 individuals to achieve target visibility.  
-
-
-</details>
-</div>
-
----
-<div>
-<details>
-  <summary>🎓 Education</summary>
-<br>
-  
-- **Arya College of Engineering, Jaipur** (Sep 2023 – Present)  
-  **B. Tech in Computer Science** | CGPA: 8.32/10  
-  *Relevant Coursework*: Data Structures, Algorithms, Machine Learning, Databases, Operating Systems, Computer Networks  
-
-- **Kendriya Vidyalaya Jhalawar** (May 2011 – Feb 2023)  
-  **High School Diploma** | Percentage: 70%  
-  *Relevant Coursework*: Basics of Computer, Algorithms, Web Development, Information Practices  
-
-
-</details>
-</div>
-
 ---
 
-<div>
-<details>
-  <summary>🔨 Project Work</summary>
-<br>
+## 💻 Coding Projects
+
 <p align="center">
-    <a href="https://github.com/aliiakbarkhan/women-safety-prototype">
-        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=women-safety-prototype&theme=calm_pink" alt="SoundState Repo">
-    </a>
-    <a href="https://github.com/aliiakbarkhan/poke-hunt-rpg-game">
-        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=poke-hunt-rpg-game&theme=calm_pink" alt="SoundState Repo">
-    </a>
-    <a href="https://github.com/aliiakbarkhan/broken-hero-game">
-        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=broken-hero-game&theme=calm_pink" alt="SoundState Repo">
-    </a>
-    <a href="https://github.com/aliiakbarkhan/nike-website-prototype">
-        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=nike-website-prototype&theme=calm_pink" alt="SoundState Repo">
-    </a>
-     <a href="https://github.com/aliiakbarkhan/photoshop-posters">
-        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=photoshop-posters&theme=calm_pink" alt="SoundState Repo">
-    </a>
- <a href="https://github.com/aliiakbarkhan/tekken-VIII-website">
-        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=tekken-VIII-website&theme=calm_pink" alt="SoundState Repo">
-    </a>
+  <img src="https://raw.githubusercontent.com/aliiakbarkhan/aliiakbarkhan/main/assets/coding-banner.png" alt="Coding Projects Banner" width="100%">
 </p>
-</details>
-</div>
 
----
-<div>
-<details>
-  <summary>🏆 Awards and Certificates</summary>
-<br>
+### Featured Coding Projects
 
-### Data Analysis and AI Certifications  
-- Career Essentials in Data Analysis – Microsoft & LinkedIn  
-- Introduction to Data Analytics (Foundations & Core Knowledge) – LinkedIn  
-- Introduction to Artificial Intelligence – Skillsoft  
-
-### Generative AI and Prompt Engineering  
-- Generative AI Certification – Microsoft & LinkedIn  
-- Foundations of Prompt Engineering – AWS  
-- What is Generative AI and Ethics in Generative AI – Google Cloud  
-- Generative AI: The Evolution of Thoughtful Online Search – LinkedIn  
-
-### Cloud Computing and Digital Transformation  
-- Digital Transformation, Infrastructure & Application Modernization – Google Cloud  
-- Understanding Google Cloud Security and Operations – Google Cloud  
-- Innovating with Data on Google Cloud – Google Cloud  
-- Low-Code Machine Learning – AWS  
-
-### Productivity and Tools  
-- Streamlining Work with Microsoft Copilot and Learning Microsoft 365 Copilot – Microsoft  
-- Internet of Things Applications – Skillsoft  
-
-### Programming and Development  
-- ChatGPT for Developers – Up Grad  
-- Java Programming and Excel for Beginners – Great Learning  
-
-### Industry Exposure  
-- Young Industry Enthusiast, Capital Markets – Infosys Springboard  
-
-</details>
-</div>
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **E-Commerce Platform** | Fully responsive e-commerce solution with payment integration | React.js, Node.js, MongoDB | [Repo](https://github.com/aliiakbarkhan/ecommerce-platform) |
+| **AI Image Generator** | Web app that generates images based on text prompts | Python, TensorFlow, Flask | [Repo](https://github.com/aliiakbarkhan/ai-image-generator) |
+| **Task Management System** | Collaborative task manager with real-time updates | React, Firebase, Redux | [Repo](https://github.com/aliiakbarkhan/task-manager) |
+| **Social Media Dashboard** | Analytics dashboard for social media management | Vue.js, D3.js, Express | [Repo](https://github.com/aliiakbarkhan/social-dashboard) |
+| **Blockchain Explorer** | Tool for visualizing and exploring blockchain data | JavaScript, Web3.js, Chart.js | [Repo](https://github.com/aliiakbarkhan/blockchain-explorer) |
 
 ---
 
-📌 *Feel free to explore my [GitHub](https://github.com/aliiakbarkhan) and connect with me on [LinkedIn](https://www.linkedin.com/in/aliakbar-khan)!*
+## 🎮 Game Development
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aliiakbarkhan/aliiakbarkhan/main/assets/game-dev-banner.png" alt="Game Development Banner" width="100%">
+</p>
+
+### Featured Game Projects
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **Project Atlas** | Open-world adventure game with procedurally generated terrain | Unity, C#, Blender | [Repo](https://github.com/aliiakbarkhan/project-atlas) |
+| **Neon Descent** | Fast-paced arcade shooter with neon aesthetic | Unreal Engine, C++, Maya | [Repo](https://github.com/aliiakbarkhan/neon-descent) |
+| **Puzzle Labyrinth** | Mobile puzzle game with innovative mechanics | Unity, C#, Adobe Illustrator | [Repo](https://github.com/aliiakbarkhan/puzzle-labyrinth) |
+| **VR Experience** | Virtual reality narrative experience | Unity, C#, Oculus SDK | [Repo](https://github.com/aliiakbarkhan/vr-experience) |
+
+---
+
+## 🎨 Graphic Design Portfolio
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aliiakbarkhan/aliiakbarkhan/main/assets/graphic-design-banner.png" alt="Graphic Design Banner" width="100%">
+</p>
+
+### Featured Graphic Design Projects
+
+| Project | Description | Tools | Link |
+|---------|-------------|-------|------|
+| **Brand Identity Collection** | Logo design and branding for startups | Illustrator, Photoshop | [View Portfolio](https://behance.net/aliiakbarkhan/branding) |
+| **Marketing Material Series** | Print and digital marketing assets | InDesign, Photoshop, Illustrator | [Repo](https://github.com/aliiakbarkhan/marketing-designs) |
+| **Digital Illustration Series** | Creative illustrations for various clients | Procreate, Photoshop | [View Portfolio](https://behance.net/aliiakbarkhan/illustrations) |
+| **Infographic Collection** | Data visualization through engaging infographics | Illustrator, After Effects | [Repo](https://github.com/aliiakbarkhan/infographics) |
+| **Packaging Design** | Product packaging for consumer goods | Photoshop, Dimension | [View Portfolio](https://behance.net/aliiakbarkhan/packaging) |
+
+---
+
+## 🎨 UX/UI Design
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aliiakbarkhan/aliiakbarkhan/main/assets/ui-design-banner.png" alt="UI/UX Design Banner" width="100%">
+</p>
+
+### Design Portfolio Highlights
+
+| Project | Description | Tools | Link |
+|---------|-------------|-------|------|
+| **Fintech App Redesign** | Complete UI overhaul with focus on accessibility | Figma, Adobe XD | [View on Figma](https://figma.com/@aliiakbarkhan/fintech-redesign) |
+| **E-commerce UI Kit** | Component library for online retail experiences | Figma, Photoshop | [Repo](https://github.com/aliiakbarkhan/ecommerce-ui-kit) |
+| **Travel App Concept** | User experience design for travel planning platform | Figma, Illustrator | [View on Figma](https://figma.com/@aliiakbarkhan/travel-app) |
+| **Design System** | Comprehensive design system for enterprise applications | Figma, Sketch | [Repo](https://github.com/aliiakbarkhan/design-system) |
+| **Dashboard Interface** | Analytics dashboard with data visualization | Figma, After Effects | [View on Figma](https://figma.com/@aliiakbarkhan/analytics-dashboard) |
+
+---
+
+## 📷 Photography
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aliiakbarkhan/aliiakbarkhan/main/assets/photography-banner.png" alt="Photography Banner" width="100%">
+</p>
+
+Passionate photographer specializing in landscape, street, and portrait photography. My work has been featured in local exhibitions and digital publications. View my photography portfolio [here](https://aliiakbarkhan.com/photography).
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aliiakbarkhan&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliiakbarkhan&theme=radical" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliiakbarkhan&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+---
+
+## 🏆 Achievements & Certifications
+
+- 🥇 Winner, Regional Game Development Hackathon (2023)
+- 🎓 AWS Certified Solutions Architect
+- 🏅 Adobe Certified Expert in Photoshop & Illustrator
+- 📚 Published Technical Author on Medium & Dev.to
+- 🎮 Featured Developer in Unity Showcase
+- 🎨 Design Award Finalist, International UX Awards
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:contact@aliiakbarkhan.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/aliiakbarkhan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/aliiakbarkhan"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://instagram.com/aliiakbarkhan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://behance.net/aliiakbarkhan"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
+  <a href="https://dribbble.com/aliiakbarkhan"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aliiakbarkhan&style=flat-square&color=blueviolet" alt="Profile views">
+</p>
