@@ -110,7 +110,7 @@
 ## 📷 Photography
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aliiakbarkhan/aliiakbarkhan/main/assets/photography-banner.png" alt="Photography Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/aliiakbarkhan/aliiakbarkhan/main/assets/7.png" alt="Photography Banner" width="100%">
 </p>
 
 Passionate photographer specializing in landscape, street, and portrait photography. My work has been featured in local exhibitions and digital publications. View my photography portfolio [here](https://aliiakbarkhan.com/photography).
