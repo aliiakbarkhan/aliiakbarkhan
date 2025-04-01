@@ -46,7 +46,7 @@
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| **Med-E-Safe** | A highly secure web app for managing medical records | HTML, CSS, JAVA, Bootstrap | [Repo](https://github.com/aliiakbarkhan/med-e-safe) |
+| **Med-E-Safe** | A highly secure web app for managing medical records | HTML, CSS, JAVA, Supabase | [Repo](https://github.com/aliiakbarkhan/med-e-safe) |
 | **Java Programming Codes** | Ideal for beginners preparing for coding interviews or enhancing problem-solving skills | Java | [Repo](https://github.com/aliiakbarkhan/jubilant-java-tree) |
 | **Tekken 8 Website** | modern redesign of the iconic fighting game’s online presence | HTML5, CSS3, Bootstrap | [Repo](https://github.com/aliiakbarkhan/tekken-VIII-website) |
 | **C Language Codes** | C Language programs from biginner to advance level | C Language | [Repo](https://github.com/aliiakbarkhan/effective-basics) |
@@ -64,10 +64,10 @@
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| **Project Atlas** | Open-world adventure game with procedurally generated terrain | Unity, C#, Blender | [Repo](https://github.com/aliiakbarkhan/project-atlas) |
-| **Neon Descent** | Fast-paced arcade shooter with neon aesthetic | Unreal Engine, C++, Maya | [Repo](https://github.com/aliiakbarkhan/neon-descent) |
-| **Puzzle Labyrinth** | Mobile puzzle game with innovative mechanics | Unity, C#, Adobe Illustrator | [Repo](https://github.com/aliiakbarkhan/puzzle-labyrinth) |
-| **VR Experience** | Virtual reality narrative experience | Unity, C#, Oculus SDK | [Repo](https://github.com/aliiakbarkhan/vr-experience) |
+| **Broken Hero** | Open-world adventure game with procedurally generated terrain | Godot, GDscript, Blender | [Repo](https://github.com/aliiakbarkhan/broken-hero-game) |
+| **The Fallen Knight** | Fast-paced signle person game with multiple stages | Godot, GDscript | [Repo](https://github.com/aliiakbarkhan/the-fallen-knight-game) |
+| **Poke Hunt RPG** | Pokemon game with combat mechanism and old pixel aesthetics | Godot, GDscript | [Repo](https://github.com/aliiakbarkhan/poke-hunt-rpg-game) |
+| **Whac Superman** | Basic Whac-a-mole game developed with the help of JAVA Programming language | Java | [Repo](https://github.com/aliiakbarkhan/whac-superman-java-game) |
 
 ---
 
@@ -81,11 +81,11 @@
 
 | Project | Description | Tools | Link |
 |---------|-------------|-------|------|
-| **Brand Identity Collection** | Logo design and branding for startups | Illustrator, Photoshop | [View Portfolio](https://behance.net/aliiakbarkhan/branding) |
-| **Marketing Material Series** | Print and digital marketing assets | InDesign, Photoshop, Illustrator | [Repo](https://github.com/aliiakbarkhan/marketing-designs) |
-| **Digital Illustration Series** | Creative illustrations for various clients | Procreate, Photoshop | [View Portfolio](https://behance.net/aliiakbarkhan/illustrations) |
-| **Infographic Collection** | Data visualization through engaging infographics | Illustrator, After Effects | [Repo](https://github.com/aliiakbarkhan/infographics) |
-| **Packaging Design** | Product packaging for consumer goods | Photoshop, Dimension | [View Portfolio](https://behance.net/aliiakbarkhan/packaging) |
+| **Anime Collection** | Logo design and branding for startups | Illustrator, Photoshop | [Repo](https://github.com/aliiakbarkhan/photoshop-posters) |
+| **Marvel & DC Series** | Print and digital marketing assets | InDesign, Photoshop, Illustrator | [Repo](https://github.com/aliiakbarkhan/photoshop-posters) |
+| **Digital Illustration Series** | Creative illustrations for various clients | Procreate, Photoshop | [Repo](https://github.com/aliiakbarkhan/photoshop-posters) |
+| **Infographic Collection** | Data visualization through engaging infographics | Illustrator, After Effects | [Repo](https://github.com/aliiakbarkhan/photoshop-posters) |
+| **Packaging Design** | Product packaging for consumer goods | Photoshop, Dimension | [Repo](\https://github.com/aliiakbarkhan/photoshop-posters) |
 
 ---
 
@@ -99,11 +99,11 @@
 
 | Project | Description | Tools | Link |
 |---------|-------------|-------|------|
-| **Fintech App Redesign** | Complete UI overhaul with focus on accessibility | Figma, Adobe XD | [View on Figma](https://figma.com/@aliiakbarkhan/fintech-redesign) |
-| **E-commerce UI Kit** | Component library for online retail experiences | Figma, Photoshop | [Repo](https://github.com/aliiakbarkhan/ecommerce-ui-kit) |
-| **Travel App Concept** | User experience design for travel planning platform | Figma, Illustrator | [View on Figma](https://figma.com/@aliiakbarkhan/travel-app) |
-| **Design System** | Comprehensive design system for enterprise applications | Figma, Sketch | [Repo](https://github.com/aliiakbarkhan/design-system) |
-| **Dashboard Interface** | Analytics dashboard with data visualization | Figma, After Effects | [View on Figma](https://figma.com/@aliiakbarkhan/analytics-dashboard) |
+| **Women Seafty Application** | Complete UI overhaul with focus on accessibility | Figma, Adobe XD | [View on Figma]("https://www.figma.com/community/file/1427140082340890877/women-safety-ali-akbar-khan") |
+| **Med-E-Safe Application** | showcasing its user interface, features, and user flow | Figma, Photoshop | [Repo](https://github.com/aliiakbarkhan/med-e-safe-prototype) |
+| **Nike Website Redesign** | showcases a fresh and dynamic website for Nike shoes | Figma, Illustrator | [View on Figma](https://www.figma.com/community/file/1334538285445463278/nike-shoes-website-ali-akbar-khan) |
+| **Animeted Switch** | showcases a beautifully designed animated switch with fluid transitions | Figma, Sketch | [Repo](https://github.com/aliiakbarkhan/animeted-switch-prototype) |
+| **Apple Watch Website Redesign** | Apple Watch Website Prototype with sleek, minimal, and modern design. | Figma, After Effects | [View on Figma](https://www.figma.com/community/file/1334529179050076391/apple-watch-website-ali-akbar-khan) |
 
 ---
 
@@ -113,7 +113,7 @@
   <img src="https://raw.githubusercontent.com/aliiakbarkhan/aliiakbarkhan/main/assets/7.png" alt="Photography Banner" width="100%">
 </p>
 
-Passionate photographer specializing in landscape, street, and portrait photography. My work has been featured in local exhibitions and digital publications. View my photography portfolio [here](https://aliiakbarkhan.com/photography).
+Passionate photographer specializing in landscape, street, and portrait photography. My work has been featured in local exhibitions and digital publications. View my photography portfolio [SOON](https://aliiakbarkhan.com/photography).
 
 ---
 
