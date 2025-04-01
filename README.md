@@ -39,7 +39,7 @@
 ## 💻 Coding Projects
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aliiakbarkhan/aliiakbarkhan/main/assets/coding-banner.png" alt="Coding Projects Banner" width="100%">
+  <img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/5.png" alt="Coding Projects Banner" width="100%">
 </p>
 
 ### Featured Coding Projects
@@ -57,7 +57,7 @@
 ## 🎮 Game Development
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aliiakbarkhan/aliiakbarkhan/main/assets/game-dev-banner.png" alt="Game Development Banner" width="100%">
+  <img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/6.png" alt="Game Development Banner" width="100%">
 </p>
 
 ### Featured Game Projects
@@ -74,7 +74,7 @@
 ## 🎨 Graphic Design Portfolio
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aliiakbarkhan/aliiakbarkhan/main/assets/graphic-design-banner.png" alt="Graphic Design Banner" width="100%">
+  <img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/3.png" alt="Graphic Design Banner" width="100%">
 </p>
 
 ### Featured Graphic Design Projects
@@ -92,7 +92,7 @@
 ## 🎨 UX/UI Design
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aliiakbarkhan/aliiakbarkhan/main/assets/ui-design-banner.png" alt="UI/UX Design Banner" width="100%">
+  <img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/4.png" alt="UI/UX Design Banner" width="100%">
 </p>
 
 ### Design Portfolio Highlights
