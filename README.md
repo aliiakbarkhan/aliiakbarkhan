@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7C300&width=435&lines=Welcome%2C+to+my+Github+Profile;I'm+a+Java+Developer+and+more" alt="Typing SVG" /></a>
-<img align="middle" alt="GIF" width="100%" src="https://media.giphy.com/media/8zYunr3Hg8XPq/giphy.gif?cid=790b7611c6u27xws5fq2opz96c4z5zof659uefe51jmrc84u&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+<img align="middle" alt="GIF" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/derewio-1d534a30-bf98-4e95-b876-267b0bfea1a1.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGVyZXdpby0xZDUzNGEzMC1iZjk4LTRlOTUtYjg3Ni0yNjdiMGJmZWExYTEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MAHYh1Xpqjv-R0cSZtCRbmyO13JzitShLyOvTdYtJ9g" />
 </p>
 
 <p>
@@ -47,12 +47,6 @@
 <details>
   <summary>💼 Work Experience</summary>
 <br>
-<div>
-<p align="center">
-<img align="middle" alt="GIF" width = "100%" src="https://media.giphy.com/media/oYQRuoYd6btVNAh75z/giphy.gif?cid=790b7611r465sfz4c84cdmou33woxnlszlojycguwo5qnpzm&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
-</p>
-</div>
-
   
 ### Tech10.in, Jaipur (Sep 2023 – Present)  
 **Founder**  
@@ -67,6 +61,7 @@
 **Campus Ambassador**  
 - Coordinated campus outreach initiatives, ensuring effective communication with over 600 individuals to achieve target visibility.  
 
+
 </details>
 </div>
 
@@ -75,12 +70,7 @@
 <details>
   <summary>🎓 Education</summary>
 <br>
-<div>
-<p align="center">
-<img align="middle" alt="GIF" width="100%" src="https://media.giphy.com/media/7Lo9YcktGUi6xuNVun/giphy.gif?cid=790b7611r465sfz4c84cdmou33woxnlszlojycguwo5qnpzm&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
-
-
-
+  
 - **Arya College of Engineering, Jaipur** (Sep 2023 – Present)  
   **B. Tech in Computer Science** | CGPA: 8.32/10  
   *Relevant Coursework*: Data Structures, Algorithms, Machine Learning, Databases, Operating Systems, Computer Networks  
@@ -89,8 +79,7 @@
   **High School Diploma** | Percentage: 70%  
   *Relevant Coursework*: Basics of Computer, Algorithms, Web Development, Information Practices  
 
-</p>
-</div>
+
 </details>
 </div>
 
@@ -100,11 +89,6 @@
 <details>
   <summary>🔨 Project Work</summary>
 <br>
-<div>
-<p align="center">
-<img align="middle" alt="GIF" width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjQ2NXNmejRjODRjZG1vdTMzd294bmxzemxvanljZ3V3bzVxbnB6bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dBsJwo17cbYvs8vqfx/giphy.gif" />
-</p>
-</div>
 <p align="center">
     <a href="https://github.com/aliiakbarkhan/women-safety-prototype">
         <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=women-safety-prototype&theme=calm_pink" alt="SoundState Repo">
@@ -133,11 +117,6 @@
 <details>
   <summary>🏆 Awards and Certificates</summary>
 <br>
-<div>
-<p align="center">
-<img align="middle" alt="GIF" width="100%" src="https://media.giphy.com/media/0ZMJeiQg7g3aFPT3DV/giphy.gif?cid=790b7611r465sfz4c84cdmou33woxnlszlojycguwo5qnpzm&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
-</p>
-</div>
 
 ### Data Analysis and AI Certifications  
 - Career Essentials in Data Analysis – Microsoft & LinkedIn  
