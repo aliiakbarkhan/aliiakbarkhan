@@ -85,7 +85,7 @@
 | **Marvel & DC Series** | Print and digital marketing assets | InDesign, Photoshop, Illustrator | [Repo](https://github.com/aliiakbarkhan/photoshop-posters) |
 | **Digital Illustration Series** | Creative illustrations for various clients | Procreate, Photoshop | [Repo](https://github.com/aliiakbarkhan/photoshop-posters) |
 | **Infographic Collection** | Data visualization through engaging infographics | Illustrator, After Effects | [Repo](https://github.com/aliiakbarkhan/photoshop-posters) |
-| **Packaging Design** | Product packaging for consumer goods | Photoshop, Dimension | [Repo](\https://github.com/aliiakbarkhan/photoshop-posters) |
+| **Packaging Design** | Product packaging for consumer goods | Photoshop, Dimension | [Repo](https://github.com/aliiakbarkhan/photoshop-posters) |
 
 ---
 
