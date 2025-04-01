@@ -134,13 +134,15 @@ Passionate photographer specializing in landscape, street, and portrait photogra
 
 ## 📊 GitHub Stats
 
+  <img align="right" alt="GIF" width="38%" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/dfrb9l5-72d02468-3ecb-421a-bc57-3064af801226.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGZyYjlsNS03MmQwMjQ2OC0zZWNiLTQyMWEtYmM1Ny0zMDY0YWY4MDEyMjYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.CqJBZ6Fh34KpiRxfiW5AmrvvG71vPMLG9PeaaMdjH1Q">
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=aliiakbarkhan&show_icons=true&theme=radical" alt="GitHub Stats"></p>
-<p align = "right">
+<p align = "left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliiakbarkhan&theme=radical" alt="GitHub Streak">
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliiakbarkhan&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
