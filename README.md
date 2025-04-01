@@ -44,6 +44,8 @@
 
 ### Featured Coding Projects
 
+<p align="center">
+
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
 | **Med-E-Safe** | A highly secure web app for managing medical records | HTML, CSS, JAVA, Supabase | [Repo](https://github.com/aliiakbarkhan/med-e-safe) |
@@ -51,6 +53,8 @@
 | **Tekken 8 Website** | modern redesign of the iconic fighting game’s online presence | HTML5, CSS3, Bootstrap | [Repo](https://github.com/aliiakbarkhan/tekken-VIII-website) |
 | **C Language Codes** | C Language programs from biginner to advance level | C Language | [Repo](https://github.com/aliiakbarkhan/effective-basics) |
 | **Pac Man Game** | A classic PACMAN game developed in Java, inspired by Kenny Jim Coding's tutorial. | Java | [Repo](https://github.com/aliiakbarkhan/pacman-java-game) |
+
+</p>
 
 ---
 
@@ -62,12 +66,16 @@
 
 ### Featured Game Projects
 
+<p align="center">
+
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
 | **Broken Hero** | Open-world adventure game with procedurally generated terrain | Godot, GDscript, Blender | [Repo](https://github.com/aliiakbarkhan/broken-hero-game) |
 | **The Fallen Knight** | Fast-paced signle person game with multiple stages | Godot, GDscript | [Repo](https://github.com/aliiakbarkhan/the-fallen-knight-game) |
 | **Poke Hunt RPG** | Pokemon game with combat mechanism and old pixel aesthetics | Godot, GDscript | [Repo](https://github.com/aliiakbarkhan/poke-hunt-rpg-game) |
 | **Whac Superman** | Basic Whac-a-mole game developed with the help of JAVA Programming language | Java | [Repo](https://github.com/aliiakbarkhan/whac-superman-java-game) |
+
+</p>
 
 ---
 
@@ -79,6 +87,8 @@
 
 ### Featured Graphic Design Projects
 
+<p align="center">
+
 | Project | Description | Tools | Link |
 |---------|-------------|-------|------|
 | **Anime Collection** | Logo design and branding for startups | Illustrator, Photoshop | [Repo](https://github.com/aliiakbarkhan/photoshop-posters) |
@@ -87,6 +97,7 @@
 | **Infographic Collection** | Data visualization through engaging infographics | Illustrator, After Effects | [Repo](https://github.com/aliiakbarkhan/photoshop-posters) |
 | **Packaging Design** | Product packaging for consumer goods | Photoshop, Dimension | [Repo](https://github.com/aliiakbarkhan/photoshop-posters) |
 
+</p>
 ---
 
 ## 🎨 UX/UI Design
@@ -97,14 +108,17 @@
 
 ### Design Portfolio Highlights
 
+<p align="center">
+
 | Project | Description | Tools | Link |
 |---------|-------------|-------|------|
-| **Women Seafty Application** | Complete UI overhaul with focus on accessibility | Figma, Adobe XD | [View on Figma]("https://www.figma.com/community/file/1427140082340890877/women-safety-ali-akbar-khan") |
+| **Women Seafty Application** | Complete UI overhaul with focus on accessibility | Figma, Adobe XD | [View on Figma](https://www.figma.com/community/file/1427140082340890877/women-safety-ali-akbar-khan) |
 | **Med-E-Safe Application** | showcasing its user interface, features, and user flow | Figma, Photoshop | [Repo](https://github.com/aliiakbarkhan/med-e-safe-prototype) |
 | **Nike Website Redesign** | showcases a fresh and dynamic website for Nike shoes | Figma, Illustrator | [View on Figma](https://www.figma.com/community/file/1334538285445463278/nike-shoes-website-ali-akbar-khan) |
 | **Animeted Switch** | showcases a beautifully designed animated switch with fluid transitions | Figma, Sketch | [Repo](https://github.com/aliiakbarkhan/animeted-switch-prototype) |
 | **Apple Watch Website Redesign** | Apple Watch Website Prototype with sleek, minimal, and modern design. | Figma, After Effects | [View on Figma](https://www.figma.com/community/file/1334529179050076391/apple-watch-website-ali-akbar-khan) |
 
+</p>
 ---
 
 ## 📷 Photography
