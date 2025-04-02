@@ -48,11 +48,11 @@
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| **Med-E-Safe** | A highly secure web app for managing medical records | HTML, CSS, JAVA, Supabase | [Repo](https://github.com/aliiakbarkhan/med-e-safe) |
-| **Java Programming Codes** | Ideal for beginners preparing for coding interviews or enhancing problem-solving skills | Java | [Repo](https://github.com/aliiakbarkhan/jubilant-java-tree) |
-| **Tekken 8 Website** | modern redesign of the iconic fighting game’s online presence | HTML5, CSS3, Bootstrap | [Repo](https://github.com/aliiakbarkhan/tekken-VIII-website) |
-| **C Language Codes** | C Language programs from biginner to advance level | C Language | [Repo](https://github.com/aliiakbarkhan/effective-basics) |
-| **Pac Man Game** | A classic PACMAN game developed in Java, inspired by Kenny Jim Coding's tutorial. | Java | [Repo](https://github.com/aliiakbarkhan/pacman-java-game) |
+| **Med-E-Safe** | A highly secure web app for managing medical records | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" /> | [Repo](https://github.com/aliiakbarkhan/med-e-safe) |
+| **Java Programming Codes** | Ideal for beginners preparing for coding interviews or enhancing problem-solving skills | <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /> | [Repo](https://github.com/aliiakbarkhan/jubilant-java-tree) |
+| **Tekken 8 Website** | modern redesign of the iconic fighting game’s online presence | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> | [Repo](https://github.com/aliiakbarkhan/tekken-VIII-website) |
+| **C Language Codes** | C Language programs from biginner to advance level | <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> | [Repo](https://github.com/aliiakbarkhan/effective-basics) |
+| **Pac Man Game** | A classic PACMAN game developed in Java, inspired by Kenny Jim Coding's tutorial. | <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /> | [Repo](https://github.com/aliiakbarkhan/pacman-java-game) |
 
 </p>
 
@@ -70,10 +70,10 @@
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| **Broken Hero** | Open-world adventure game with procedurally generated terrain | Godot, GDscript, Blender | [Repo](https://github.com/aliiakbarkhan/broken-hero-game) |
-| **The Fallen Knight** | Fast-paced signle person game with multiple stages | Godot, GDscript | [Repo](https://github.com/aliiakbarkhan/the-fallen-knight-game) |
-| **Poke Hunt RPG** | Pokemon game with combat mechanism and old pixel aesthetics | Godot, GDscript | [Repo](https://github.com/aliiakbarkhan/poke-hunt-rpg-game) |
-| **Whac Superman** | Basic Whac-a-mole game developed with the help of JAVA Programming language | Java | [Repo](https://github.com/aliiakbarkhan/whac-superman-java-game) |
+| **Broken Hero** | Open-world adventure game with procedurally generated terrain | <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white" /> <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" /> | [Repo](https://github.com/aliiakbarkhan/broken-hero-game) |
+| **The Fallen Knight** | Fast-paced signle person game with multiple stages | <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white" /> | [Repo](https://github.com/aliiakbarkhan/the-fallen-knight-game) |
+| **Poke Hunt RPG** | Pokemon game with combat mechanism and old pixel aesthetics | <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white" /> | [Repo](https://github.com/aliiakbarkhan/poke-hunt-rpg-game) |
+| **Whac Superman** | Basic Whac-a-mole game developed with the help of JAVA Programming language | <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /> | [Repo](https://github.com/aliiakbarkhan/whac-superman-java-game) |
 
 </p>
 
@@ -91,10 +91,10 @@
 
 | Project | Description | Tools | Link |
 |---------|-------------|-------|------|
-| **Anime Collection** | Premium anime designs, seamless edits, striking visual impact  | Illustrator, Photoshop | [Repo](https://github.com/aliiakbarkhan/photoshop-posters) |
-| **Marvel & DC Series** | Cool Marvel and DC superheros wallpapers and designs | InDesign, Photoshop, Illustrator | [Repo](https://github.com/aliiakbarkhan/photoshop-posters) |
-| **Digital Illustration Series** | Creative illustrations for various clients | Procreate, Photoshop | [Repo](https://github.com/aliiakbarkhan/photoshop-posters) |
-| **Infographic Collection** | Data visualization through engaging infographics that help in better understanding and equipping user or client with more details  | Illustrator, After Effects | [Repo](https://github.com/aliiakbarkhan/photoshop-posters) |
+| **Anime Collection** | Premium anime designs, seamless edits, striking visual impact  | <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=blac" /> | [Repo](https://github.com/aliiakbarkhan/photoshop-posters) |
+| **Marvel & DC Series** | Cool Marvel and DC superheros wallpapers and designs | <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=blac" /> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" /> | [Repo](https://github.com/aliiakbarkhan/photoshop-posters) |
+| **Digital Illustration Series** | Creative illustrations for various clients | <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=blac" /> | [Repo](https://github.com/aliiakbarkhan/photoshop-posters) |
+| **Infographic Collection** | Data visualization through engaging infographics that help in better understanding and equipping user or client with more details  | <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" /> | [Repo](https://github.com/aliiakbarkhan/photoshop-posters) |
 
 </p>
 
@@ -112,11 +112,11 @@
 
 | Project | Description | Tools | Link |
 |---------|-------------|-------|------|
-| **Women Seafty Application** | Complete UI overhaul with focus on accessibility | Figma, Adobe XD | [View on Figma](https://www.figma.com/community/file/1427140082340890877/women-safety-ali-akbar-khan) |
-| **Med-E-Safe Application** | showcasing its user interface, features, and user flow | Figma, Photoshop | [Repo](https://github.com/aliiakbarkhan/med-e-safe-prototype) |
-| **Nike Website Redesign** | showcases a fresh and dynamic website for Nike shoes | Figma, Illustrator | [View on Figma](https://www.figma.com/community/file/1334538285445463278/nike-shoes-website-ali-akbar-khan) |
-| **Animeted Switch** | showcases a beautifully designed animated switch with fluid transitions | Figma, Sketch | [Repo](https://github.com/aliiakbarkhan/animeted-switch-prototype) |
-| **Apple Watch Website Redesign** | Apple Watch Website Prototype with sleek, minimal, and modern design. | Figma, After Effects | [View on Figma](https://www.figma.com/community/file/1334529179050076391/apple-watch-website-ali-akbar-khan) |
+| **Women Seafty Application** | Complete UI overhaul with focus on accessibility | <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" /> | [View on Figma](https://www.figma.com/community/file/1427140082340890877/women-safety-ali-akbar-khan) |
+| **Med-E-Safe Application** | showcasing its user interface, features, and user flow | <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=blac" /> | [Repo](https://github.com/aliiakbarkhan/med-e-safe-prototype) |
+| **Nike Website Redesign** | showcases a fresh and dynamic website for Nike shoes | <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" /> | [View on Figma](https://www.figma.com/community/file/1334538285445463278/nike-shoes-website-ali-akbar-khan) |
+| **Animeted Switch** | showcases a beautifully designed animated switch with fluid transitions | <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" /> | [Repo](https://github.com/aliiakbarkhan/animeted-switch-prototype) |
+| **Apple Watch Website Redesign** | Apple Watch Website Prototype with sleek, minimal, and modern design. | <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" /> | [View on Figma](https://www.figma.com/community/file/1334529179050076391/apple-watch-website-ali-akbar-khan) |
 
 </p>
 
