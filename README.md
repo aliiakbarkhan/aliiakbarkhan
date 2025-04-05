@@ -148,45 +148,25 @@ Passionate photographer specializing in landscape, street, and portrait photogra
 ## 🏆 Achievements & Certifications
 
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-
-# 🏆 Achievements & Certifications
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        
-| Certificate | Provider |
-|-------------|----------|
-| Career Essentials in Data Analysis | ![Microsoft](https://img.shields.io/badge/-Microsoft-5E5E5E?style=flat&logo=microsoft) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin) |
-| Introduction to Data Analytics (Foundations & Core Knowledge) | ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin) |
-| Introduction to Artificial Intelligence | ![Skillsoft](https://img.shields.io/badge/-Skillsoft-FF6B00?style=flat&logo=skillshare) |
-| Generative AI Certification | ![Microsoft](https://img.shields.io/badge/-Microsoft-5E5E5E?style=flat&logo=microsoft) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin) |
-| Foundations of Prompt Engineering | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws) |
-| What is Generative AI and Ethics in Generative AI | ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud) |
-| Generative AI: The Evolution of Thoughtful Online Search | ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin) |
-| Digital Transformation, Infrastructure & Application Modernization | ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud) |
-| Understanding Google Cloud Security and Operations | ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud) |
-| Innovating with Data on Google Cloud | ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud) |
-| Low-Code Machine Learning | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws) |
-| Streamlining Work with Microsoft Copilot | ![Microsoft](https://img.shields.io/badge/-Microsoft-5E5E5E?style=flat&logo=microsoft) |
-| Learning Microsoft 365 Copilot | ![Microsoft](https://img.shields.io/badge/-Microsoft-5E5E5E?style=flat&logo=microsoft) |
-| Internet of Things Applications | ![Skillsoft](https://img.shields.io/badge/-Skillsoft-FF6B00?style=flat&logo=skillshare) |
-| ChatGPT for Developers | ![Up Grad](https://img.shields.io/badge/-Up%20Grad-FF6B00?style=flat&logo=udemy) |
-| Java Programming and Excel for Beginners | ![Great Learning](https://img.shields.io/badge/-Great%20Learning-0175C2?style=flat&logo=bookstack) |
-| Young Industry Enthusiast, Capital Markets | ![Infosys Springboard](https://img.shields.io/badge/-Infosys-007CC3?style=flat&logo=infosys) |
-
-</td>
-<td align="right">
-  <img align="right" alt="JoJo Anime GIF" width="220px" height="100%" src="https://media.giphy.com/media/QyDHI3LJx8I9hA51Qs/giphy.gif" />
-</td>
-    </tr>
-  </table>
-</div>
+| Certificate | Provider | Verification |
+|-------------|----------|--------------|
+| Career Essentials in Data Analysis | ![Microsoft](https://img.shields.io/badge/-Microsoft-5E5E5E?style=flat&logo=microsoft) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin) | [View Certificate](https://www.linkedin.com/in/aliakbar-khan) |
+| Introduction to Data Analytics (Foundations & Core Knowledge) | ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin) | [View Certificate](https://www.linkedin.com/in/aliakbar-khan) |
+| Introduction to Artificial Intelligence | ![Skillsoft](https://img.shields.io/badge/-Skillsoft-FF6B00?style=flat&logo=skillshare) | [View Certificate](https://www.linkedin.com/in/aliakbar-khan) |
+| Generative AI Certification | ![Microsoft](https://img.shields.io/badge/-Microsoft-5E5E5E?style=flat&logo=microsoft) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin) | [View Certificate](https://www.linkedin.com/in/aliakbar-khan) |
+| Foundations of Prompt Engineering | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws) | [View Certificate](https://www.linkedin.com/in/aliakbar-khan) |
+| What is Generative AI and Ethics in Generative AI | ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud) | [View Certificate](https://www.linkedin.com/in/aliakbar-khan) |
+| Generative AI: The Evolution of Thoughtful Online Search | ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin) | [View Certificate](https://www.linkedin.com/in/aliakbar-khan) |
+| Digital Transformation, Infrastructure & Application Modernization | ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud) | [View Certificate](https://www.linkedin.com/in/aliakbar-khan) |
+| Understanding Google Cloud Security and Operations | ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud) | [View Certificate](https://www.linkedin.com/in/aliakbar-khan) |
+| Innovating with Data on Google Cloud | ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud) | [View Certificate](https://www.linkedin.com/in/aliakbar-khan) |
+| Low-Code Machine Learning | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws) | [View Certificate](https://www.linkedin.com/in/aliakbar-khan) |
+| Streamlining Work with Microsoft Copilot | ![Microsoft](https://img.shields.io/badge/-Microsoft-5E5E5E?style=flat&logo=microsoft) | [View Certificate](https://www.linkedin.com/in/aliakbar-khan) |
+| Learning Microsoft 365 Copilot | ![Microsoft](https://img.shields.io/badge/-Microsoft-5E5E5E?style=flat&logo=microsoft) | [View Certificate](https://www.linkedin.com/in/aliakbar-khan) |
+| Internet of Things Applications | ![Skillsoft](https://img.shields.io/badge/-Skillsoft-FF6B00?style=flat&logo=skillshare) | [View Certificate](https://www.linkedin.com/in/aliakbar-khan) |
+| ChatGPT for Developers | ![Up Grad](https://img.shields.io/badge/-Up%20Grad-FF6B00?style=flat&logo=udemy) | [View Certificate](https://www.linkedin.com/in/aliakbar-khan) |
+| Java Programming and Excel for Beginners | ![Great Learning](https://img.shields.io/badge/-Great%20Learning-0175C2?style=flat&logo=bookstack) | [View Certificate](https://www.linkedin.com/in/aliakbar-khan) |
+| Young Industry Enthusiast, Capital Markets | ![Infosys Springboard](https://img.shields.io/badge/-Infosys-007CC3?style=flat&logo=infosys) | [View Certificate](https://www.linkedin.com/in/aliakbar-khan) |
 
 ---
 
