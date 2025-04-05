@@ -148,6 +148,18 @@ Passionate photographer specializing in landscape, street, and portrait photogra
 ## 🏆 Achievements & Certifications
 
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+
+# 🏆 Achievements & Certifications
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        
 | Certificate | Provider |
 |-------------|----------|
 | Career Essentials in Data Analysis | ![Microsoft](https://img.shields.io/badge/-Microsoft-5E5E5E?style=flat&logo=microsoft) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin) |
@@ -167,6 +179,14 @@ Passionate photographer specializing in landscape, street, and portrait photogra
 | ChatGPT for Developers | ![Up Grad](https://img.shields.io/badge/-Up%20Grad-FF6B00?style=flat&logo=udemy) |
 | Java Programming and Excel for Beginners | ![Great Learning](https://img.shields.io/badge/-Great%20Learning-0175C2?style=flat&logo=bookstack) |
 | Young Industry Enthusiast, Capital Markets | ![Infosys Springboard](https://img.shields.io/badge/-Infosys-007CC3?style=flat&logo=infosys) |
+
+</td>
+<td align="right">
+  <img align="right" alt="JoJo Anime GIF" width="220px" height="100%" src="https://media.giphy.com/media/QyDHI3LJx8I9hA51Qs/giphy.gif" />
+</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
