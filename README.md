@@ -161,4 +161,4 @@ Built and optimized small-scale projects using core Java, JDBC, and Swing.
 
 ---
 
-📌 *Feel free to explore my [GitHub](https://github.com/aliiakbarkhan) and connect with me on [LinkedIn](https://www.linkedin.com/in/aliakbar-khan)!*
+<p align="left"> <a href="https://drive.google.com/file/d/1zrupIrh4ucqLgM3QKCenBQL8t_7QlrSm/view" target="blank"><img src="https://img.shields.io/badge/Resume_-000?style=for-the-badge&logo=files&logoColor=green" alt="Resume"/></a> </p>
