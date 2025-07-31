@@ -9,7 +9,8 @@
 
 <p>
   
-#### Hi, I am **Ali Akbar Khan** an enthusiastic and ambitious Computer Science Student, Founder at [@Tech10.in](https://www.instagram.com/tech10.in/), and Java Developer. I specialize in Web Development, Game Development, and Graphics Design. I love to network, join new communities, and add value.
+#### I am Ali Akbar Khan, a second-year B.Tech CSE student at Arya College of Engineering, with a passion for Machine Learning and Software Engineering. I have strong technical skills in Programming Languages such as Java, Python, C++, C, SQL, and Web Development, alongside expertise in UX/UI Design, Game Development, and Graphics Design. I aim to contribute to impactful projects and create solutions that make a difference.
+
 
 </p>
 
