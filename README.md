@@ -25,9 +25,9 @@
   
 | Category        | Skills        |
 |-----------------|---------------|
-| Languages       | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /> |
+| Languages       | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> |
 | Styling & Frameworks | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />  |
-| Database |<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> |
+| Database |<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> |
 | Services & Tools|<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>  |
 | Competitive Coding | <a href="https://leetcode.com/aliiakbarkhan/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/> <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> |
 | IDE & Environment | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/replit-F26207?style=for-the-badge&logo=replit&logoColor=white" /> <img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" /> <img src="https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white" /> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" /> <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" /> |
@@ -48,7 +48,12 @@
   <summary>💼 Work Experience</summary>
 <br>
   
-### Tech10.in, Jaipur (Sep 2023 – Present)  
+### Pinnacle Labs, Kolkata (Jun 2025 – Jul 2025)  
+**Software Development Intern**  
+- Worked on multiple Java-based projects, gaining hands-on experience in backend logic and application development.
+Built and optimized small-scale projects using core Java, JDBC, and Swing.
+
+### Tech10.in, Jaipur (Sep 2023 – May 2025)  
 **Founder**  
 - Directed the development of innovative tech solutions, ensuring real-time implementation and system coordination for maximum efficiency.  
 - Managed cross-functional team collaboration to optimize operational performance, achieving a 91% improvement in productivity.
@@ -72,7 +77,7 @@
 <br>
   
 - **Arya College of Engineering, Jaipur** (Sep 2023 – Present)  
-  **B. Tech in Computer Science** | CGPA: 8.32/10  
+  **B. Tech in Computer Science** | CGPA: 8.5/10  
   *Relevant Coursework*: Data Structures, Algorithms, Machine Learning, Databases, Operating Systems, Computer Networks  
 
 - **Kendriya Vidyalaya Jhalawar** (May 2011 – Feb 2023)  
@@ -90,23 +95,23 @@
   <summary>🔨 Project Work</summary>
 <br>
 <p align="center">
-    <a href="https://github.com/aliiakbarkhan/women-safety-prototype">
-        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=women-safety-prototype&theme=calm_pink" alt="SoundState Repo">
+    <a href="https://github.com/aliiakbarkhan/disease-risk-predictor">
+        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=disease-risk-predictor&theme=calm_pink" alt="SoundState Repo">
     </a>
-    <a href="https://github.com/aliiakbarkhan/poke-hunt-rpg-game">
-        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=poke-hunt-rpg-game&theme=calm_pink" alt="SoundState Repo">
+    <a href="https://github.com/aliiakbarkhan/RandomForestRegressor-Prediction-API">
+        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=RandomForestRegressor-Prediction-API&theme=calm_pink" alt="SoundState Repo">
+    </a>
+    <a href="https://github.com/aliiakbarkhan/library-managment-system">
+        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=library-managment-system&theme=calm_pink" alt="SoundState Repo">
+    </a>
+     <a href="https://github.com/aliiakbarkhan/Med-E-Safe">
+        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=Med-E-Safe&theme=calm_pink" alt="SoundState Repo">
+    </a>
+ <a href="https://github.com/aliiakbarkhan/Women-Safety-Prototype">
+        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=Women-Safety-Prototype&theme=calm_pink" alt="SoundState Repo">
     </a>
     <a href="https://github.com/aliiakbarkhan/broken-hero-game">
         <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=broken-hero-game&theme=calm_pink" alt="SoundState Repo">
-    </a>
-    <a href="https://github.com/aliiakbarkhan/nike-website-prototype">
-        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=nike-website-prototype&theme=calm_pink" alt="SoundState Repo">
-    </a>
-     <a href="https://github.com/aliiakbarkhan/photoshop-posters">
-        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=photoshop-posters&theme=calm_pink" alt="SoundState Repo">
-    </a>
- <a href="https://github.com/aliiakbarkhan/tekken-VIII-website">
-        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=tekken-VIII-website&theme=calm_pink" alt="SoundState Repo">
     </a>
 </p>
 </details>
@@ -117,6 +122,11 @@
 <details>
   <summary>🏆 Awards and Certificates</summary>
 <br>
+
+### Hackathons  
+-  3rd Position – Innovastra National Level Hackathon 2025
+- 2nd Position – Smart India Hackathon College Level 2024
+- Qualifier Position – Call2Code Hackathon Manipal University 2025
 
 ### Data Analysis and AI Certifications  
 - Career Essentials in Data Analysis – Microsoft & LinkedIn  
