@@ -4,26 +4,31 @@
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7C300&width=435&lines=Welcome%2C+to+my+Github+Profile;I'm+a+Java+Developer+and+more" alt="Typing SVG" /></a>
-<img align="middle" alt="GIF" src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/White%20Rose%20Profile%20LinkedIn%20Banner.png" />
+<img align="middle" alt="GIF" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/derewio-1d534a30-bf98-4e95-b876-267b0bfea1a1.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGVyZXdpby0xZDUzNGEzMC1iZjk4LTRlOTUtYjg3Ni0yNjdiMGJmZWExYTEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MAHYh1Xpqjv-R0cSZtCRbmyO13JzitShLyOvTdYtJ9g" />
 </p>
 
 <p>
   
-#### Hi, I am **Ali Akbar Khan** an enthusiastic and ambitious Computer Science Student, Founder at [@Tech10.in](https://www.instagram.com/tech10.in/), and Java Developer. I specialize in Web Development, Game Development, and Graphics Design. I love to network, join new communities, and add value.
+#### I am Ali Akbar Khan, a second-year B.Tech CSE student at Arya College of Engineering, with a passion for Machine Learning and Software Engineering. I have strong technical skills in Programming Languages such as Java, Python, C++, C, SQL, and Web Development, alongside expertise in UX/UI Design, Game Development, and Graphics Design. I aim to contribute to impactful projects and create solutions that make a difference.
+
 
 </p>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+<div>
+<details>
+  <summary>👨‍💻 Technical Skills</summary>
 
+<br>
 <p align = "center">
 
+  
 | Category        | Skills        |
 |-----------------|---------------|
-| Languages       | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /> |
+| Languages       | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> |
 | Styling & Frameworks | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />  |
-| Database |<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> |
+| Database |<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> |
 | Services & Tools|<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>  |
 | Competitive Coding | <a href="https://leetcode.com/aliiakbarkhan/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/> <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> |
 | IDE & Environment | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/replit-F26207?style=for-the-badge&logo=replit&logoColor=white" /> <img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" /> <img src="https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white" /> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" /> <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" /> |
@@ -34,126 +39,127 @@
 
 </p>
 
----
-
-## 💻 Coding Projects
-
-<p align="center">
-  <img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/5.png" alt="Coding Projects Banner" width="100%">
-</p>
-
-### Featured Coding Projects
-
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| **E-Commerce Platform** | Fully responsive e-commerce solution with payment integration | React.js, Node.js, MongoDB | [Repo](https://github.com/aliiakbarkhan/ecommerce-platform) |
-| **AI Image Generator** | Web app that generates images based on text prompts | Python, TensorFlow, Flask | [Repo](https://github.com/aliiakbarkhan/ai-image-generator) |
-| **Task Management System** | Collaborative task manager with real-time updates | React, Firebase, Redux | [Repo](https://github.com/aliiakbarkhan/task-manager) |
-| **Social Media Dashboard** | Analytics dashboard for social media management | Vue.js, D3.js, Express | [Repo](https://github.com/aliiakbarkhan/social-dashboard) |
-| **Blockchain Explorer** | Tool for visualizing and exploring blockchain data | JavaScript, Web3.js, Chart.js | [Repo](https://github.com/aliiakbarkhan/blockchain-explorer) |
+</div>
+</details>
+</div>
 
 ---
+<div>
+<details>
+  <summary>💼 Work Experience</summary>
+<br>
+  
+### Pinnacle Labs, Kolkata (Jun 2025 – Jul 2025)  
+**Software Development Intern**  
+- Worked on multiple Java-based projects, gaining hands-on experience in backend logic and application development.
+Built and optimized small-scale projects using core Java, JDBC, and Swing.
 
-## 🎮 Game Development
+### Tech10.in, Jaipur (Sep 2023 – May 2025)  
+**Founder**  
+- Directed the development of innovative tech solutions, ensuring real-time implementation and system coordination for maximum efficiency.  
+- Managed cross-functional team collaboration to optimize operational performance, achieving a 91% improvement in productivity.
 
-<p align="center">
-  <img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/6.png" alt="Game Development Banner" width="100%">
-</p>
+### Cook N Klein, Bangalore (Apr 2024 - May 2024)  
+**Graphics Design Intern**  
+- Designed 31 graphics that boosted social media engagement and brand recognition, driving customer engagement growth.
 
-### Featured Game Projects
+### Fluxus IIT Indore, Indore (Nov 2023 - Feb 2024)  
+**Campus Ambassador**  
+- Coordinated campus outreach initiatives, ensuring effective communication with over 600 individuals to achieve target visibility.  
 
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| **Project Atlas** | Open-world adventure game with procedurally generated terrain | Unity, C#, Blender | [Repo](https://github.com/aliiakbarkhan/project-atlas) |
-| **Neon Descent** | Fast-paced arcade shooter with neon aesthetic | Unreal Engine, C++, Maya | [Repo](https://github.com/aliiakbarkhan/neon-descent) |
-| **Puzzle Labyrinth** | Mobile puzzle game with innovative mechanics | Unity, C#, Adobe Illustrator | [Repo](https://github.com/aliiakbarkhan/puzzle-labyrinth) |
-| **VR Experience** | Virtual reality narrative experience | Unity, C#, Oculus SDK | [Repo](https://github.com/aliiakbarkhan/vr-experience) |
+
+</details>
+</div>
 
 ---
+<div>
+<details>
+  <summary>🎓 Education</summary>
+<br>
+  
+- **Arya College of Engineering, Jaipur** (Sep 2023 – Present)  
+  **B. Tech in Computer Science** | CGPA: 8.5/10  
+  *Relevant Coursework*: Data Structures, Algorithms, Machine Learning, Databases, Operating Systems, Computer Networks  
 
-## 🎨 Graphic Design Portfolio
+- **Kendriya Vidyalaya Jhalawar** (May 2011 – Feb 2023)  
+  **High School Diploma** | Percentage: 70%  
+  *Relevant Coursework*: Basics of Computer, Algorithms, Web Development, Information Practices  
 
-<p align="center">
-  <img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/3.png" alt="Graphic Design Banner" width="100%">
-</p>
 
-### Featured Graphic Design Projects
-
-| Project | Description | Tools | Link |
-|---------|-------------|-------|------|
-| **Brand Identity Collection** | Logo design and branding for startups | Illustrator, Photoshop | [View Portfolio](https://behance.net/aliiakbarkhan/branding) |
-| **Marketing Material Series** | Print and digital marketing assets | InDesign, Photoshop, Illustrator | [Repo](https://github.com/aliiakbarkhan/marketing-designs) |
-| **Digital Illustration Series** | Creative illustrations for various clients | Procreate, Photoshop | [View Portfolio](https://behance.net/aliiakbarkhan/illustrations) |
-| **Infographic Collection** | Data visualization through engaging infographics | Illustrator, After Effects | [Repo](https://github.com/aliiakbarkhan/infographics) |
-| **Packaging Design** | Product packaging for consumer goods | Photoshop, Dimension | [View Portfolio](https://behance.net/aliiakbarkhan/packaging) |
+</details>
+</div>
 
 ---
 
-## 🎨 UX/UI Design
-
+<div>
+<details>
+  <summary>🔨 Project Work</summary>
+<br>
 <p align="center">
-  <img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/4.png" alt="UI/UX Design Banner" width="100%">
+    <a href="https://github.com/aliiakbarkhan/disease-risk-predictor">
+        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=disease-risk-predictor&theme=calm_pink" alt="SoundState Repo">
+    </a>
+    <a href="https://github.com/aliiakbarkhan/RandomForestRegressor-Prediction-API">
+        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=RandomForestRegressor-Prediction-API&theme=calm_pink" alt="SoundState Repo">
+    </a>
+    <a href="https://github.com/aliiakbarkhan/library-managment-system">
+        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=library-managment-system&theme=calm_pink" alt="SoundState Repo">
+    </a>
+     <a href="https://github.com/aliiakbarkhan/Med-E-Safe">
+        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=Med-E-Safe&theme=calm_pink" alt="SoundState Repo">
+    </a>
+ <a href="https://github.com/aliiakbarkhan/Women-Safety-Prototype">
+        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=Women-Safety-Prototype&theme=calm_pink" alt="SoundState Repo">
+    </a>
+    <a href="https://github.com/aliiakbarkhan/broken-hero-game">
+        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=broken-hero-game&theme=calm_pink" alt="SoundState Repo">
+    </a>
 </p>
+</details>
+</div>
 
-### Design Portfolio Highlights
+---
+<div>
+<details>
+  <summary>🏆 Awards and Certificates</summary>
+<br>
 
-| Project | Description | Tools | Link |
-|---------|-------------|-------|------|
-| **Fintech App Redesign** | Complete UI overhaul with focus on accessibility | Figma, Adobe XD | [View on Figma](https://figma.com/@aliiakbarkhan/fintech-redesign) |
-| **E-commerce UI Kit** | Component library for online retail experiences | Figma, Photoshop | [Repo](https://github.com/aliiakbarkhan/ecommerce-ui-kit) |
-| **Travel App Concept** | User experience design for travel planning platform | Figma, Illustrator | [View on Figma](https://figma.com/@aliiakbarkhan/travel-app) |
-| **Design System** | Comprehensive design system for enterprise applications | Figma, Sketch | [Repo](https://github.com/aliiakbarkhan/design-system) |
-| **Dashboard Interface** | Analytics dashboard with data visualization | Figma, After Effects | [View on Figma](https://figma.com/@aliiakbarkhan/analytics-dashboard) |
+### Hackathons  
+-  3rd Position – Innovastra National Level Hackathon 2025
+- 2nd Position – Smart India Hackathon College Level 2024
+- Qualifier Position – Call2Code Hackathon Manipal University 2025
+
+### Data Analysis and AI Certifications  
+- Career Essentials in Data Analysis – Microsoft & LinkedIn  
+- Introduction to Data Analytics (Foundations & Core Knowledge) – LinkedIn  
+- Introduction to Artificial Intelligence – Skillsoft  
+
+### Generative AI and Prompt Engineering  
+- Generative AI Certification – Microsoft & LinkedIn  
+- Foundations of Prompt Engineering – AWS  
+- What is Generative AI and Ethics in Generative AI – Google Cloud  
+- Generative AI: The Evolution of Thoughtful Online Search – LinkedIn  
+
+### Cloud Computing and Digital Transformation  
+- Digital Transformation, Infrastructure & Application Modernization – Google Cloud  
+- Understanding Google Cloud Security and Operations – Google Cloud  
+- Innovating with Data on Google Cloud – Google Cloud  
+- Low-Code Machine Learning – AWS  
+
+### Productivity and Tools  
+- Streamlining Work with Microsoft Copilot and Learning Microsoft 365 Copilot – Microsoft  
+- Internet of Things Applications – Skillsoft  
+
+### Programming and Development  
+- ChatGPT for Developers – Up Grad  
+- Java Programming and Excel for Beginners – Great Learning  
+
+### Industry Exposure  
+- Young Industry Enthusiast, Capital Markets – Infosys Springboard  
+
+</details>
+</div>
 
 ---
 
-## 📷 Photography
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aliiakbarkhan/aliiakbarkhan/main/assets/photography-banner.png" alt="Photography Banner" width="100%">
-</p>
-
-Passionate photographer specializing in landscape, street, and portrait photography. My work has been featured in local exhibitions and digital publications. View my photography portfolio [here](https://aliiakbarkhan.com/photography).
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliiakbarkhan&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliiakbarkhan&theme=radical" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliiakbarkhan&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
----
-
-## 🏆 Achievements & Certifications
-
-- 🥇 Winner, Regional Game Development Hackathon (2023)
-- 🎓 AWS Certified Solutions Architect
-- 🏅 Adobe Certified Expert in Photoshop & Illustrator
-- 📚 Published Technical Author on Medium & Dev.to
-- 🎮 Featured Developer in Unity Showcase
-- 🎨 Design Award Finalist, International UX Awards
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="mailto:contact@aliiakbarkhan.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/aliiakbarkhan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/aliiakbarkhan"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://instagram.com/aliiakbarkhan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://behance.net/aliiakbarkhan"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
-  <a href="https://dribbble.com/aliiakbarkhan"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aliiakbarkhan&style=flat-square&color=blueviolet" alt="Profile views">
-</p>
+<center> <p align="left"> <a href="https://drive.google.com/file/d/1zrupIrh4ucqLgM3QKCenBQL8t_7QlrSm/view" target="blank"><img src="https://img.shields.io/badge/Resume_-000?style=for-the-badge&logo=files&logoColor=green" alt="Resume"/></a> </p> </center>
