@@ -1,0 +1,672 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ali Akbar Khan - Modern Portfolio</title>
+    <!-- Load Tailwind CSS from CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Load Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    
+    <style>
+        /* Base Styles for Dark Theme */
+        :root {
+            --neon-blue: #00bcd4; /* Brighter Cyan */
+            --dark-bg: #111827; /* Dark Grey/Blue */
+            --dark-card: #1f2937; /* Slightly lighter card background */
+            --text-light: #e5e7eb;
+            --text-secondary: #9ca3af;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--dark-bg);
+            color: var(--text-light);
+            line-height: 1.6;
+            scroll-behavior: smooth;
+        }
+
+        /* Custom Scrollbar for a sleek look */
+        body::-webkit-scrollbar {
+            width: 8px;
+        }
+        body::-webkit-scrollbar-track {
+            background: #2d3748;
+        }
+        body::-webkit-scrollbar-thumb {
+            background-color: var(--neon-blue);
+            border-radius: 20px;
+            border: 2px solid #2d3748;
+        }
+
+        /* Header fixed positioning and subtle shadow */
+        header {
+            position: sticky;
+            top: 0;
+            background-color: rgba(17, 24, 39, 0.95); /* Semi-transparent dark bg */
+            backdrop-filter: blur(8px);
+            z-index: 1000;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+            transition: all 0.3s ease;
+        }
+
+        /* Scroll Animation Utility */
+        .animate-on-scroll {
+            opacity: 0;
+            transform: translateY(20px);
+            transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+        }
+        
+        /* Neon Button Style */
+        .neon-button {
+            position: relative;
+            background: none;
+            border: 2px solid var(--neon-blue);
+            color: var(--neon-blue);
+            padding: 0.75rem 1.5rem;
+            border-radius: 9999px;
+            text-transform: uppercase;
+            font-weight: 600;
+            letter-spacing: 0.05em;
+            overflow: hidden;
+            transition: color 0.4s ease-in-out, background 0.4s ease-in-out, box-shadow 0.4s ease-in-out;
+            text-shadow: 0 0 5px var(--neon-blue);
+        }
+
+        .neon-button:hover {
+            color: var(--dark-bg);
+            background-color: var(--neon-blue);
+            box-shadow: 0 0 15px var(--neon-blue);
+            text-shadow: none;
+        }
+
+        /* Service Card Glow Effect */
+        .service-card-wrapper {
+            position: relative;
+            background-color: var(--dark-card);
+            border-radius: 12px;
+            overflow: hidden;
+        }
+        
+        .service-card-wrapper::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: conic-gradient(from 0deg, rgba(0, 188, 212, 0.8) 0%, rgba(0, 188, 212, 0) 50%, rgba(0, 188, 212, 0.8) 100%);
+            z-index: 0;
+            opacity: 0;
+            transition: opacity 0.5s ease;
+            animation: rotate 4s linear infinite;
+        }
+
+        .service-card-wrapper:hover::before {
+            opacity: 0.4;
+        }
+        
+        .service-card-content {
+            position: relative;
+            z-index: 1;
+            padding: 2rem;
+            background-color: var(--dark-card);
+            border-radius: 12px;
+        }
+
+        /* Image Gallery Carousel Animation */
+        .gallery-container {
+            overflow: hidden;
+        }
+
+        .gallery-track {
+            display: flex;
+            width: fit-content;
+            animation: scroll-x 30s linear infinite;
+            padding: 10px 0;
+        }
+
+        .gallery-track:hover {
+            animation-play-state: paused;
+        }
+
+        .gallery-item {
+            flex-shrink: 0;
+            width: 280px;
+            height: 180px;
+            margin-right: 1.5rem;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        .gallery-item img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.3s ease;
+        }
+
+        .gallery-item img:hover {
+            transform: scale(1.05);
+        }
+
+        @keyframes scroll-x {
+            0% { transform: translateX(0); }
+            100% { transform: translateX(-50%); } /* Half the track length */
+        }
+
+        @keyframes rotate {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        /* Hero Image Pulsing Effect */
+        @keyframes pulse-neon {
+            0%, 100% {
+                box-shadow: 0 0 10px var(--neon-blue), 0 0 20px var(--neon-blue);
+            }
+            50% {
+                box-shadow: 0 0 25px var(--neon-blue), 0 0 50px var(--neon-blue);
+            }
+        }
+        .hero-img-pulse {
+            animation: pulse-neon 2s infinite alternate;
+        }
+
+    </style>
+</head>
+<body>
+
+    <header class="shadow-lg">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center py-4">
+                <a href="#home" class="text-2xl font-bold text-white tracking-widest" style="text-shadow: 0 0 5px var(--neon-blue);">
+                    <span class="text-white">A.</span><span class="text-transparent" style="text-shadow: 0 0 5px var(--neon-blue);">K.</span>
+                </a>
+                <nav class="hidden md:flex space-x-8">
+                    <a href="#home" class="nav-link text-sm font-medium text-gray-300 hover:text-white transition duration-200 uppercase">Home</a>
+                    <a href="#projects" class="nav-link text-sm font-medium text-gray-300 hover:text-white transition duration-200 uppercase">Projects</a>
+                    <a href="#services" class="nav-link text-sm font-medium text-gray-300 hover:text-white transition duration-200 uppercase">Services</a>
+                    <a href="#gallery" class="nav-link text-sm font-medium text-gray-300 hover:text-white transition duration-200 uppercase">Gallery</a>
+                    <a href="#achievements" class="nav-link text-sm font-medium text-gray-300 hover:text-white transition duration-200 uppercase">Achievements</a>
+                    <a href="#resume" class="nav-link text-sm font-medium text-gray-300 hover:text-white transition duration-200 uppercase">Resume</a>
+                    <a href="#about" class="nav-link text-sm font-medium text-gray-300 hover:text-white transition duration-200 uppercase">About</a>
+                    <a href="#contact" class="nav-link text-sm font-medium text-gray-300 hover:text-white transition duration-200 uppercase">Contact</a>
+                </nav>
+                <!-- Mobile Menu Button - Left unstyled for simplicity in CDN build, relies on JS for toggle -->
+            </div>
+        </div>
+    </header>
+
+    <main>
+        
+        <!-- HOME SECTION -->
+        <section id="home" class="min-h-screen pt-24 flex items-center justify-center bg-gray-900">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 grid md:grid-cols-2 gap-12 items-center">
+                <div class="text-center md:text-left animate-on-scroll">
+                    <p class="text-lg font-semibold text-cyan-400 mb-2 tracking-wider">Hello, I'm Ali Akbar Khan</p>
+                    <h1 class="text-5xl md:text-7xl font-extrabold leading-tight text-white mb-4">
+                        <span class="block">B.Tech CSE Student</span>
+                        <span class="block text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-500">ML Instructor & Dev</span>
+                    </h1>
+                    <p class="text-xl text-gray-400 mb-8 max-w-lg mx-auto md:mx-0">
+                        Pioneering solutions in <b>Machine Learning</b>, excelling in Full-Stack Development, and crafting user-centric UI/UX Design.
+                    </p>
+                    <div class="flex justify-center md:justify-start space-x-4">
+                        <a href="#projects" class="neon-button">View Projects</a>
+                        <a href="#contact" class="neon-button bg-cyan-600 border-none text-gray-900 hover:text-gray-900">Get in Touch</a>
+                    </div>
+                    <div class="mt-8 flex justify-center md:justify-start space-x-6 text-2xl">
+                        <a href="https://github.com/aliiakbarkhan" target="_blank" class="text-gray-400 hover:text-cyan-400 transition duration-300" aria-label="GitHub">
+                            <i class="fab fa-github"></i>
+                        </a>
+                        <a href="https://www.linkedin.com/in/aliiakbarkhan/" target="_blank" class="text-gray-400 hover:text-cyan-400 transition duration-300" aria-label="LinkedIn">
+                            <i class="fab fa-linkedin"></i>
+                        </a>
+                    </div>
+                </div>
+                
+                <div class="flex justify-center animate-on-scroll">
+                    <!-- Placeholder for Hero Image/Avatar - Animated -->
+                    <div class="w-64 h-64 md:w-80 md:h-80 rounded-full bg-cyan-700 bg-opacity-30 border-4 border-cyan-400 flex items-center justify-center hero-img-pulse overflow-hidden">
+                        <img src="icons/profile.png" alt="Ali Akbar Khan Avatar" class="w-full h-full object-cover">
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- PROJECTS SECTION -->
+        <section id="projects" class="py-20 bg-gray-800">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <h2 class="text-4xl font-bold text-center text-white mb-4 animate-on-scroll">Featured <span class="text-cyan-400">Projects</span></h2>
+                <p class="text-center text-gray-400 mb-12 max-w-2xl mx-auto animate-on-scroll">A selection of my best work, combining technical depth and practical application.</p>
+                
+                <div id="projects-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
+                    <!-- Project Cards will be inserted here by JavaScript -->
+                </div>
+            </div>
+        </section>
+
+        <!-- SERVICES SECTION -->
+        <section id="services" class="py-20 bg-gray-900">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <h2 class="text-4xl font-bold text-center text-white mb-4 animate-on-scroll">My <span class="text-cyan-400">Expertise</span></h2>
+                <p class="text-center text-gray-400 mb-12 max-w-2xl mx-auto animate-on-scroll">Offering a range of high-impact services across development, design, and education.</p>
+
+                <div id="services-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                    <!-- Service Cards will be inserted here by JavaScript -->
+                </div>
+            </div>
+        </section>
+        
+        <!-- GALLERY SECTION (Image Carousel) -->
+        <section id="gallery" class="py-20 bg-gray-800">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <h2 class="text-4xl font-bold text-center text-white mb-4 animate-on-scroll">Visual <span class="text-cyan-400">Showcase</span></h2>
+                <p class="text-center text-gray-400 mb-12 max-w-2xl mx-auto animate-on-scroll">Photos from hackathons, certifications, and design mockups.</p>
+
+                <div class="gallery-container">
+                    <div id="gallery-track" class="gallery-track">
+                        <!-- Gallery Images will be duplicated and inserted here by JavaScript -->
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- ACHIEVEMENTS SECTION -->
+        <section id="achievements" class="py-20 bg-gray-900">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <h2 class="text-4xl font-bold text-center text-white mb-4 animate-on-scroll">Awards & <span class="text-cyan-400">Certifications</span></h2>
+                <p class="text-center text-gray-400 mb-12 max-w-2xl mx-auto animate-on-scroll">Recognitions that demonstrate my commitment to continuous learning and technical excellence.</p>
+                
+                <div id="achievements-container" class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                    <!-- Achievement Cards will be inserted here by JavaScript -->
+                </div>
+            </div>
+        </section>
+
+        <!-- RESUME SECTION -->
+        <section id="resume" class="py-20 bg-gray-800">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <h2 class="text-4xl font-bold text-center text-white mb-4 animate-on-scroll">My <span class="text-cyan-400">Resume</span></h2>
+                <p class="text-center text-gray-400 mb-12 max-w-2xl mx-auto animate-on-scroll">A snapshot of my education, experience, and skills for quick reference.</p>
+                
+                <div class="bg-gray-700 p-8 rounded-xl shadow-2xl animate-on-scroll">
+                    <div class="grid md:grid-cols-3 gap-8 text-gray-300">
+                        <div class="md:col-span-1">
+                            <h3 class="text-2xl font-semibold text-cyan-400 mb-4">Summary</h3>
+                            <p class="mb-4">
+                                Currently pursuing <b>B.Tech CSE</b> with an <b>8.75 CGPA</b>. Expertise in Machine Learning, full-stack Java development, and professional Graphics/UI/UX design.
+                            </p>
+                            <p>
+                                I focus on building scalable backend systems and creating engaging educational content for the ML community.
+                            </p>
+                        </div>
+                        <div class="md:col-span-2 space-y-4">
+                            <h3 class="text-2xl font-semibold text-cyan-400 mb-4">Key Experience</h3>
+                            <ul class="list-disc list-inside space-y-2">
+                                <li><b>ML Instructor:</b> Created and launched a highly-viewed educational video series on Machine Learning algorithms and model building.</li>
+                                <li><b>Software Developer Intern:</b> Worked on multiple Java-based projects, optimizing small-scale backend logic using Core Java and JDBC.</li>
+                                <li><b>Graphics Designer:</b> Provided high-impact LinkedIn profile transformations and branding assets for professional clients.</li>
+                            </ul>
+                            <div class="flex flex-wrap gap-4 mt-6">
+                                <!-- NOTE: Replace 'Main_Resume.pdf' with the actual file path if hosting elsewhere -->
+                                <a href="https://drive.google.com/file/d/1y7Kf5Qv3q4m1g4bJH-KRfmeehQAUUFin/view?usp=drive_link" target="_blank" class="neon-button text-sm flex items-center">
+                                    <i class="fas fa-file-pdf mr-2"></i> View Full Resume
+                                </a>
+                                <a href="https://drive.google.com/file/d/1y7Kf5Qv3q4m1g4bJH-KRfmeehQAUUFin/view?usp=drive_link" download class="neon-button text-sm flex items-center bg-transparent border-gray-400 text-gray-400 hover:text-gray-900 hover:bg-gray-400">
+                                    <i class="fas fa-download mr-2"></i> Download PDF
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <!-- ABOUT ME SECTION -->
+        <section id="about" class="py-20 bg-gray-900">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <h2 class="text-4xl font-bold text-center text-white mb-4 animate-on-scroll">A Little <span class="text-cyan-400">About Me</span></h2>
+                <div class="max-w-4xl mx-auto bg-gray-800 p-10 rounded-xl shadow-2xl space-y-6 text-gray-300 animate-on-scroll">
+                    <p>
+                        I am a highly motivated <b>B.Tech Computer Science Engineering student</b> currently maintaining an impressive <b>8.75 CGPA</b>. My professional focus is driven by a passion for solving complex problems through technology, spanning three primary disciplines: <b>Machine Learning Instruction, Software Development, and UI/UX Design.</b>
+                    </p>
+                    <p>
+                        As a <b>Machine Learning Instructor</b>, I enjoy breaking down complex algorithms into accessible video content, proving my ability to communicate technical concepts effectively (evidenced by 700+ organic views on my debut video series). Concurrently, my work as a <b>Software Developer Intern</b> has given me hands-on experience building robust Java-based backend systems.
+                    </p>
+                    <p>
+                        My commitment to user experience and aesthetics is fulfilled through <b>Freelance Graphics Design</b>, where I help professionals transform their brand presence. This diverse skill set allows me to contribute not just to the functionality of a project, but also to its educational value and visual appeal. I am constantly seeking opportunities to learn, innovate, and contribute to cutting-edge projects.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <!-- CONTACT ME SECTION -->
+        <section id="contact" class="py-20 bg-gray-800">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <h2 class="text-4xl font-bold text-center text-white mb-4 animate-on-scroll">Let's <span class="text-cyan-400">Connect</span></h2>
+                <p class="text-center text-gray-400 mb-12 max-w-2xl mx-auto animate-on-scroll">Have a project, teaching inquiry, or just want to chat? Reach out!</p>
+                
+                <div class="max-w-lg mx-auto bg-gray-900 p-8 rounded-xl shadow-2xl animate-on-scroll">
+                    <form id="contact-form" class="space-y-6">
+                        <div>
+                            <label for="name" class="block text-sm font-medium text-gray-300 mb-1">Your Name</label>
+                            <input type="text" id="name" name="name" required class="w-full px-4 py-2 bg-gray-700 border border-gray-600 rounded-lg text-white focus:ring-cyan-500 focus:border-cyan-500 transition duration-200">
+                        </div>
+                        <div>
+                            <label for="email" class="block text-sm font-medium text-gray-300 mb-1">Your Email</label>
+                            <input type="email" id="email" name="email" required class="w-full px-4 py-2 bg-gray-700 border border-gray-600 rounded-lg text-white focus:ring-cyan-500 focus:border-cyan-500 transition duration-200">
+                        </div>
+                        <div>
+                            <label for="message" class="block text-sm font-medium text-gray-300 mb-1">Message</label>
+                            <textarea id="message" name="message" rows="4" required class="w-full px-4 py-2 bg-gray-700 border border-gray-600 rounded-lg text-white focus:ring-cyan-500 focus:border-cyan-500 transition duration-200"></textarea>
+                        </div>
+                        <button type="submit" class="neon-button w-full transition duration-300">
+                            Send Message
+                        </button>
+                        <!-- <p id="form-message" class="mt-4 text-center text-sm text-gray-400">
+                            *Note: This is a static portfolio. Form submissions are currently logged to the console, not sent to a database.
+                        </p> -->
+                    </form>
+                </div>
+                
+                <div class="text-center mt-12 space-y-4">
+                    <p class="text-gray-400 text-lg"><i class="fas fa-envelope text-cyan-400 mr-3"></i> aliakbarkhana79@gmail.com</p>
+                    <p class="text-gray-400 text-lg"><i class="fas fa-phone-alt text-cyan-400 mr-3"></i> +91 8000939156</p>
+                </div>
+            </div>
+        </section>
+        
+    </main>
+
+    <footer class="bg-gray-900 py-8 border-t border-gray-700">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-gray-400">
+            <p>&copy; 2025 Ali Akbar Khan. All rights reserved.</p>
+            <div class="flex justify-center space-x-6 mt-4 text-xl">
+                <a href="https://github.com/aliiakbarkhan" target="_blank" class="hover:text-cyan-400 transition duration-300" aria-label="GitHub">
+                    <i class="fab fa-github"></i>
+                </a>
+                <a href="https://www.linkedin.com/in/aliiakbarkhan/" target="_blank" class="hover:text-cyan-400 transition duration-300" aria-label="LinkedIn">
+                    <i class="fab fa-linkedin"></i>
+                </a>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // --- DATA STRUCTURES ---
+
+        // Project Data (Static)
+        const PROJECT_DATA = [
+            {
+                title: "Eye Disease Detection Model",
+                description: "A trained deep learning model designed to classify and detect eye diseases from medical images. Cut prediction time from several minutes to under 2 seconds through an optimized Gradio-based pipeline.",
+                thumbnailUrl: "icons/eye.png",
+                githubLink: "https://github.com/aliiakbarkhan/eye-disease-detection-DL",
+                // liveLink: "https://www.linkedin.com/in/aliiakbarkhan/" // Linking to LinkedIn as this was the platform mentioned
+            },
+            {
+                title: "Library Management System",
+                description: "Built a Java Swing-based Library Management System managing 1,000+ books, automating 70% of manual librarytasks.",
+                thumbnailUrl: "icons/lin.png",
+                githubLink: "https://github.com/aliiakbarkhan/library-managment-system",
+                // liveLink: "#"
+            },
+            {
+                title: "Advanced Disease Risk Predictor",
+                description: "Real-time, AI-powered health risk assessment system for Indian states and cities, provides dynamic risk analysis using live weather, air quality, and mobility data.",
+                thumbnailUrl: "icons/adv.png",
+                githubLink: "https://github.com/aliiakbarkhan/disease-risk-predictor", // Placeholder for Behance/Design link
+                liveLink: "#"
+            },
+            {
+                title: "House Price Prediction API",
+                description: "A Machine Learning API provides housing price predictions based on longitude, latitude, housing median age, total rooms, total bedrooms, population, households, median income, and ocean proximity. Improved prediction accuracy from 82% to over 95% with feature engineering and model tuning.",
+                thumbnailUrl: "icons/house.png",
+                githubLink: "https://github.com/aliiakbarkhan/RandomForestRegressor-Prediction-API",
+                liveLink: "#"
+            },
+            {
+                title: "Med-E-Safe WebApp & Application",
+                description: "Developed a highly secure web app for managing medical, log in, view reports, and keep your data safe with advanced encryption.",
+                thumbnailUrl: "icons/med.png",
+                githubLink: "https://github.com/aliiakbarkhan/Med-E-Safe",
+                liveLink: "#"
+            },
+            {
+                title: "Women Safety Application Figma",
+                description: "Designed and simulated a real-time SOS and location tracking application, ensuring effective communication protocols and rapid user response. Achieved 80% faster response simulation, enhancing accessibility to support and user safety.",
+                thumbnailUrl: "icons/women.png",
+                githubLink: "https://github.com/aliiakbarkhan/Women-Safety-Prototype",
+                liveLink: "#"
+            }
+        ];
+
+        // Services Data (Static)
+        const SERVICES_DATA = [
+            { icon: "fab fa-linkedin", title: "LinkedIn Profile Transformation", description: "Turning your professional profile into a client-attracting, high-impact asset using brand-first design." },
+            { icon: "fas fa-brain", title: "Machine Learning Solutions", description: "From model development and training to integrating ML APIs for real-world applications and analysis." },
+            { icon: "fas fa-code", title: "Software Development", description: "Full-stack development with a focus on robust backend systems using Java and modern front-end practices." },
+            { icon: "fas fa-chalkboard-teacher", title: "Teaching & Mentoring", description: "Providing clear, concise instruction on ML, programming, and development concepts to aspiring engineers." },
+            { icon: "fas fa-dice-d6", title: "Game Development", description: "Creating simple, engaging games and interactive simulations using JavaScript and related libraries." },
+            { icon: "fas fa-palette", title: "UI/UX & Graphics Design", description: "Crafting intuitive user interfaces and impactful graphic assets for digital products and branding." }
+        ];
+
+        // Achievements Data (Static)
+        const ACHIEVEMENTS_DATA = [
+            {
+                title: "Top 35% Globally (Leetcode Contests)",
+                description: "Achieved a World Rank in the Top 35% on LeetCode.",
+                date: "2025"
+            },
+            {
+                title: "100+ Questions on Leetcode",
+                description: "Demonstrated proficiency in Data Structures and Algorithms, Successfully solving over 100 problems on LeetCode.",
+                date: "2025"
+            },
+            {
+                title: "3rd Position in Innovastra National Level Hackathon",
+                description: "Awarded 3rd Place at the Innovastra National Level Hackathon, A distinguished achievement at Arya College of Engineering, Jaipur.",
+                date: "2025"
+            },
+            {
+                title: "Qualifier Position in Call2Code Hackathon",
+                description: "Secured a Qualifier Position in the competitive Call2Code Hackathon, Recognition received at Manipal University, Jaipur in 2025.",
+                date: "2025"
+            },
+            {
+                title: "2nd Position in Smart India Hackathon College Level",
+                description: "Achieved 2nd Position in the Smart India Hackathon (College Level), Top-tier performance demonstrated at Arya College of Engineering, Jaipur in 2024.",
+                date: "2024"
+            },
+            {
+                title: "Generative AI Certification (Microsoft & LinkedIn)",
+                description: "Completed comprehensive training on Generative AI principles, including foundational models, prompt engineering, and ethical deployment of AI solutions.",
+                date: "2024"
+            },
+            {
+                title: "Career Essentials in Data Analysis (Microsoft & LinkedIn)",
+                description: "Mastered core data analysis techniques, including data wrangling, visualization, and interpretation, focusing on actionable business insights.",
+                date: "2024"
+            },
+            {
+                title: "AWS Foundations of Prompt Engineering",
+                description: "Focused on advanced prompt construction techniques to optimize LLM outputs for consistency, accuracy, and task-specific performance.",
+                date: "2024"
+            },
+            {
+                title: "Google Cloud Digital Transformation & Modernization",
+                description: "Studied Google Cloud services for infrastructure modernization, application development, and leveraging cloud security best practices.",
+                date: "2024"
+            }
+        ];
+        
+        // Gallery Data (Static) - Image URLs
+        const MOCK_GALLERY_IMAGES = [
+            "assets/0.jpeg",
+            "assets/1.jpg",
+            "assets/2.jpg",
+            "assets/3.jpg",
+            "assets/4.jpg",
+            "assets/5.jpeg",
+            "assets/6.jpeg",
+            "assets/7.jpg",
+            "assets/8.jpeg",
+            "assets/9.jpg",
+        ];
+        
+        // --- JAVASCRIPT LOGIC ---
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            renderProjects();
+            renderServices();
+            renderAchievements();
+            renderGallery();
+            setupSmoothScroll();
+            setupFormSubmission();
+            setupScrollAnimation();
+        });
+
+        function renderProjects() {
+            const container = document.getElementById('projects-container');
+            if (!container) return;
+
+            PROJECT_DATA.forEach(project => {
+                const projectCard = document.createElement('div');
+                projectCard.className = 'project-card bg-gray-700 rounded-xl shadow-xl p-6 transition duration-300 hover:shadow-cyan-500/50 hover:scale-[1.02] animate-on-scroll';
+                projectCard.innerHTML = `
+                    <div class="h-40 overflow-hidden rounded-lg mb-4">
+                        <img src="${project.thumbnailUrl}" alt="Project Thumbnail" class="w-full h-full object-cover transition duration-500 hover:scale-110">
+                    </div>
+                    <h3 class="text-xl font-bold text-white mb-2">${project.title}</h3>
+                    <p class="text-gray-400 mb-4">${project.description}</p>
+                    <div class="flex space-x-4">
+                        <a href="${project.githubLink}" target="_blank" class="text-sm font-semibold flex items-center text-cyan-400 hover:text-white transition duration-200">
+                            <i class="fab fa-github mr-2"></i> GitHub
+                        </a>
+                        <a href="${project.liveLink}" target="_blank" class="text-sm font-semibold flex items-center text-gray-400 hover:text-cyan-400 transition duration-200">
+                            <i class="fas fa-external-link-alt mr-2"></i> Live Link
+                        </a>
+                    </div>
+                `;
+                container.appendChild(projectCard);
+            });
+        }
+
+        function renderServices() {
+            const container = document.getElementById('services-container');
+            if (!container) return;
+
+            SERVICES_DATA.forEach(service => {
+                const serviceCard = document.createElement('div');
+                serviceCard.className = 'service-card-wrapper animate-on-scroll';
+                serviceCard.innerHTML = `
+                    <div class="service-card-content p-6 flex flex-col items-center text-center">
+                        <div class="text-4xl text-cyan-400 mb-4">
+                            <i class="${service.icon}"></i>
+                        </div>
+                        <h3 class="text-xl font-semibold text-white mb-2">${service.title}</h3>
+                        <p class="text-gray-400">${service.description}</p>
+                    </div>
+                `;
+                container.appendChild(serviceCard);
+            });
+        }
+
+        function renderAchievements() {
+            const container = document.getElementById('achievements-container');
+            if (!container) return;
+
+            ACHIEVEMENTS_DATA.forEach(achievement => {
+                const achievementCard = document.createElement('div');
+                achievementCard.className = 'achievement-card bg-gray-700 rounded-xl shadow-xl p-6 border-l-4 border-cyan-400 animate-on-scroll';
+                achievementCard.innerHTML = `
+                    <p class="text-sm text-gray-400 mb-2">${achievement.date}</p>
+                    <h3 class="text-xl font-semibold text-white mb-2">${achievement.title}</h3>
+                    <p class="text-gray-300">${achievement.description}</p>
+                `;
+                container.appendChild(achievementCard);
+            });
+        }
+        
+        function renderGallery() {
+            const track = document.getElementById('gallery-track');
+            if (!track) return;
+            
+            // Duplicate the images to ensure seamless continuous scrolling effect
+            const images = [...MOCK_GALLERY_IMAGES, ...MOCK_GALLERY_IMAGES];
+
+            images.forEach(url => {
+                const item = document.createElement('div');
+                item.className = 'gallery-item shadow-lg border border-cyan-500/30';
+                item.innerHTML = `<img src="${url}" alt="Gallery Image" loading="lazy">`;
+                track.appendChild(item);
+            });
+        }
+
+        function setupSmoothScroll() {
+            document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+                anchor.addEventListener('click', function (e) {
+                    e.preventDefault();
+                    document.querySelector(this.getAttribute('href')).scrollIntoView({
+                        behavior: 'smooth'
+                    });
+                });
+            });
+        }
+
+        function setupScrollAnimation() {
+            const observerOptions = {
+                threshold: 0.1,
+                rootMargin: '0px 0px -50px 0px'
+            };
+
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.style.opacity = '1';
+                        entry.target.style.transform = 'translateY(0)';
+                        observer.unobserve(entry.target); // Stop observing once visible
+                    }
+                });
+            }, observerOptions);
+
+            document.querySelectorAll('.animate-on-scroll').forEach(el => {
+                observer.observe(el);
+            });
+        }
+
+        function setupFormSubmission() {
+            const form = document.getElementById('contact-form');
+            const messageElement = document.getElementById('form-message');
+
+            form.addEventListener('submit', function (e) {
+                e.preventDefault();
+                
+                const data = {
+                    name: document.getElementById('name').value,
+                    email: document.getElementById('email').value,
+                    message: document.getElementById('message').value,
+                    timestamp: new Date().toISOString()
+                };
+
+                // Log data to console instead of sending to a database
+                console.log("Contact Form Submission Logged:", data);
+
+                messageElement.innerHTML = '<span class="text-green-400">Thank you! Your message has been logged to the console (since this is a static site).</span>';
+                
+                // Clear form after submission
+                form.reset();
+                
+                // Reset message after a few seconds
+                setTimeout(() => {
+                    messageElement.innerHTML = '*Note: This is a static portfolio. Form submissions are currently logged to the console, not sent to a database.';
+                    messageElement.className = 'mt-4 text-center text-sm text-gray-400';
+                }, 5000);
+            });
+        }
+    </script>
+</body>
+</html>
