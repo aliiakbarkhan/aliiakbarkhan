@@ -90,35 +90,6 @@ Built and optimized small-scale projects using core Java, JDBC, and Swing.
 </div>
 
 ---
-
-<div>
-<details>
-  <summary>🔨 Project Work</summary>
-<br>
-<p align="center">
-    <a href="https://github.com/aliiakbarkhan/disease-risk-predictor">
-        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=disease-risk-predictor&theme=calm_pink" alt="SoundState Repo">
-    </a>
-    <a href="https://github.com/aliiakbarkhan/RandomForestRegressor-Prediction-API">
-        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=RandomForestRegressor-Prediction-API&theme=calm_pink" alt="SoundState Repo">
-    </a>
-    <a href="https://github.com/aliiakbarkhan/library-managment-system">
-        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=library-managment-system&theme=calm_pink" alt="SoundState Repo">
-    </a>
-     <a href="https://github.com/aliiakbarkhan/Med-E-Safe">
-        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=Med-E-Safe&theme=calm_pink" alt="SoundState Repo">
-    </a>
- <a href="https://github.com/aliiakbarkhan/Women-Safety-Prototype">
-        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=Women-Safety-Prototype&theme=calm_pink" alt="SoundState Repo">
-    </a>
-    <a href="https://github.com/aliiakbarkhan/broken-hero-game">
-        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=broken-hero-game&theme=calm_pink" alt="SoundState Repo">
-    </a>
-</p>
-</details>
-</div>
-
----
 <div>
 <details>
   <summary>🏆 Awards and Certificates</summary>
