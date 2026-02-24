@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-
+<img src="https://i.pinimg.com/originals/e1/3c/0d/e13c0df6fa6e81db0d7db43f73aa4c9a.gif" />
 <p align="left">My name is Ali Akbar Khan, and I'm a Java Developer.</p>
 
 ###
