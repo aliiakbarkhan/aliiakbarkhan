@@ -17,81 +17,84 @@
 
 ## 🚀 Featured Projects
 
-### 🩺 CanCure AI — Breast Cancer Prediction
-ML-powered diagnostic tool trained on the Wisconsin Breast Cancer dataset. Integrates SHAP explainability for transparent model decisions, and extends to multi-modal deep learning on the BreakHis histology dataset (EfficientNet-B0 + tabular features, AUC: **0.900**). Deployed via FastAPI on Render.
+### 🩺 CanCure AI — Breast Cancer Detection
+Random Forest classifier for breast cancer detection using clinical diagnostic data. Achieved **96% accuracy**, **98% recall**, and **95% F1-score**. Built with full EDA pipeline, class imbalance handling, and SHAP explainability for model transparency.
 
-`Python` `scikit-learn` `SHAP` `EfficientNet-B0` `FastAPI` `Render`
+`Python` `Random Forest` `Scikit-learn` `SHAP` `Pandas` `Seaborn` `Kaggle`
 
 ---
 
 ### 🗺️ Women's Safety Map — Jaipur
-An interactive safety map for Jaipur built with React and Leaflet over OpenStreetMap data. Risk-scores ~24,000 road segments using vectorized STRtree spatial indexing. Features incident reporting, crowd-sourced data layers, and filterable risk overlays.
+Interactive safety map for Jaipur built with React and Leaflet over OpenStreetMap data. Risk-scores ~24,000 road segments using vectorized STRtree spatial indexing. Features incident reporting, crowd-sourced data layers, and filterable risk overlays.
 
 `React` `Leaflet` `OpenStreetMap` `Python` `STRtree` `GeoJSON`
 
 ---
 
 ### 🛡️ MITM Attack & Defense Simulator
-A network security simulation demonstrating Man-in-the-Middle attack vectors and corresponding defense mechanisms. Built to study real-world network vulnerabilities in a controlled environment.
+Simulated a full Man-in-the-Middle attack across 2 devices on a LAN — attacker impersonates both sender and receiver to intercept live network traffic. Demonstrated **AES encryption** as a real-time defense, proving secure communication can neutralize interception. Built entirely in Java.
 
-`Python` `Networking` `Cybersecurity` `Scapy`
-
----
-
-### 👁️ EyeDel AI
-AI-powered eye disease detection system. Applies deep learning to classify retinal images and assist in early diagnosis.
-
-`Python` `Deep Learning` `Computer Vision` `TensorFlow`
+`Java` `Java Crypto Libraries` `AES Encryption` `Networking` `Cybersecurity`
 
 ---
 
-### 🎮 Clefairy App
-A mobile-first application with a playful UX and feature-rich design, demonstrating full-stack product thinking from UI to backend integration.
+### 👁️ EyeDel AI — Eye Disease Classification
+Deep learning model classifying **4 eye conditions** (Cataract, Glaucoma, Diabetic Retinopathy, Normal) from retinal images at **92% accuracy** using ResNet18 fine-tuned with PyTorch and Fastai. Optimized Gradio inference pipeline reduced prediction latency from several minutes to **under 2 seconds**.
 
-`React` `JavaScript` `Firebase`
+`ResNet18` `PyTorch` `Fastai` `Gradio` `Python` `Deep Learning` `Kaggle`
+
+---
+
+### 🎮 Clefairy App — Smart Safety App
+Real-time SOS and location tracking app with a personalized safety chatbot "Sakhi" and community safety modules. Achieved **80% faster emergency response simulation**. Powered by a Random Forest Regressor trained on city street safety data (crime history, population density, night safety indicators) at **91% accuracy**, served via FastAPI.
+
+`Flutter` `Dart` `FastAPI` `Random Forest` `REST APIs` `Figma`
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages** &nbsp;·&nbsp; Python · Java · C++ · JavaScript · SQL · HTML/CSS
+**Languages** &nbsp;·&nbsp; Java · Python · C/C++ · JavaScript · SQL · HTML/CSS · PHP
 
-**ML / Data** &nbsp;·&nbsp; scikit-learn · TensorFlow · SHAP · Pandas · NumPy
+**ML / Data** &nbsp;·&nbsp; PyTorch · TensorFlow · Scikit-learn · Fastai · OpenCV · Keras · Pandas · NumPy
 
-**Web & Backend** &nbsp;·&nbsp; React · FastAPI · Node.js · Firebase · Supabase
+**Web & Backend** &nbsp;·&nbsp; FastAPI · Flutter · REST APIs · JDBC · Swing
 
-**Tools & Platforms** &nbsp;·&nbsp; Git · GitHub · Render · Vercel · Postman · Figma
+**Databases** &nbsp;·&nbsp; MySQL · MongoDB · Firebase · Supabase
+
+**Tools** &nbsp;·&nbsp; Git · GitHub · Figma · Gradio
 
 ---
 
 ## 💼 Experience
 
-**Software Development Intern** · Pinnacle Labs, Kolkata *(Jun 2025 – Jul 2025)*
-> Built and optimized Java-based backend projects using core Java, JDBC, and Swing.
+**Machine Learning Instructor** · Self-Employed, Remote *(Aug 2025 – Present)*
+> Launched an ML video series on LinkedIn covering algorithms, model building, and real-world applications — **700+ organic views** on debut video.
+
+**Software Developer Intern** · Pinnacle Labs, Bangalore *(Jun – Jul 2025)*
+> Built Java-based applications including a Library Management System (CRUD + DB integration) and the MITM Attack & Defense Simulator using Java Crypto Libraries.
 
 **Founder** · Tech10.in, Jaipur *(Sep 2023 – May 2025)*
-> Led development of tech solutions, managed cross-functional teams — achieved 91% productivity improvement.
-
-**Graphics Design Intern** · Cook N Klein, Bangalore *(Apr – May 2024)*
-> Designed 31 graphics that directly drove social media engagement and brand recognition.
+> Led cross-functional teams in multiple technical events and hackathons — achieved **91% improvement** in operational productivity.
 
 ---
 
 ## 🏆 Highlights
 
+- 🥈 **2nd Place** — Smart India Hackathon, College Level 2024
 - 🥉 **3rd Place** — Innovastra National Level Hackathon 2025
-- 🥈 **2nd Place** — Smart India Hackathon (College Level) 2024
 - ✅ **Qualifier** — Call2Code Hackathon, Manipal University 2025
-- 📜 Certifications in **Generative AI**, **Data Analytics**, **Cloud Computing** — Microsoft, AWS, Google Cloud
+- 🏅 **Participant** — SHANKARA Global Hackathon
+- 💻 **Top 35% Globally** on LeetCode · Ranked **9,600 / 36,000+** in Weekly Contest 468 · **140+ problems** solved
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliiakbarkhan&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=aliiakbarkhan&theme=default&hide_border=true" height="150"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliiakbarkhan&layout=compact&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliiakbarkhan&layout=compact&hide_border=true&langs_count=6" height="150"/>
 </p>
 
 <p align="center">
