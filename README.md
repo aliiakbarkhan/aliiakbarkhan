@@ -24,7 +24,7 @@ Random Forest classifier for breast cancer detection using clinical diagnostic d
 
 ---
 
-### Women's Safety Map — Jaipur
+### Women's Safety Map — (UNDERDEVLOPMENT)
 Interactive safety map for Jaipur built with React and Leaflet over OpenStreetMap data. Risk-scores ~24,000 road segments using vectorized STRtree spatial indexing. Features incident reporting, crowd-sourced data layers, and filterable risk overlays.
 
 `React` `Leaflet` `OpenStreetMap` `Python` `STRtree` `GeoJSON`
@@ -81,19 +81,11 @@ Real-time SOS and location tracking app with a personalized safety chatbot "Sakh
 
 ## Highlights
 
-- 🥈 **2nd Place** — Smart India Hackathon, College Level 2024
-- 🥉 **3rd Place** — Innovastra National Level Hackathon 2025
-- ✅ **Qualifier** — Call2Code Hackathon, Manipal University 2025
-- 🏅 **Participant** — SHANKARA Global Hackathon
-- 💻 **Top 35% Globally** on LeetCode · Ranked **9,600 / 36,000+** in Weekly Contest 468 · **140+ problems** solved
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aliiakbarkhan/aliiakbarkhan/refs/heads/output/output.png" alt="Contribution graph"/>
-</p>
+- **2nd Place** — Smart India Hackathon, College Level 2024
+- **3rd Place** — Innovastra National Level Hackathon 2025
+- **Qualifier** — Call2Code Hackathon, Manipal University 2025
+- **Participant** — SHANKARA Global Hackathon
+- **Top 35% Globally** on LeetCode · Ranked **9,600 / 36,000+** in Weekly Contest 468 · **140+ problems** solved
 
 ---
 
