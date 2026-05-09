@@ -3,8 +3,8 @@
 <p align="center">
   <a href="https://linkedin.com/in/aliiakbarkhan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   &nbsp;
-  <a href="https://github.com/aliiakbarkhan"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  &nbsp;
+<a href="https://www.kaggle.com/aliiakbarkhan"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/></a>
+&nbsp;
   <a href="https://leetcode.com/aliiakbarkhan/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
 </p>
 
@@ -15,44 +15,44 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🩺 CanCure AI — Breast Cancer Detection
+### CanCure AI — Breast Cancer Detection
 Random Forest classifier for breast cancer detection using clinical diagnostic data. Achieved **96% accuracy**, **98% recall**, and **95% F1-score**. Built with full EDA pipeline, class imbalance handling, and SHAP explainability for model transparency.
 
 `Python` `Random Forest` `Scikit-learn` `SHAP` `Pandas` `Seaborn` `Kaggle`
 
 ---
 
-### 🗺️ Women's Safety Map — Jaipur
+### Women's Safety Map — Jaipur
 Interactive safety map for Jaipur built with React and Leaflet over OpenStreetMap data. Risk-scores ~24,000 road segments using vectorized STRtree spatial indexing. Features incident reporting, crowd-sourced data layers, and filterable risk overlays.
 
 `React` `Leaflet` `OpenStreetMap` `Python` `STRtree` `GeoJSON`
 
 ---
 
-### 🛡️ MITM Attack & Defense Simulator
+### MITM Attack & Defense Simulator
 Simulated a full Man-in-the-Middle attack across 2 devices on a LAN — attacker impersonates both sender and receiver to intercept live network traffic. Demonstrated **AES encryption** as a real-time defense, proving secure communication can neutralize interception. Built entirely in Java.
 
 `Java` `Java Crypto Libraries` `AES Encryption` `Networking` `Cybersecurity`
 
 ---
 
-### 👁️ EyeDel AI — Eye Disease Classification
+### EyeDel AI — Eye Disease Classification
 Deep learning model classifying **4 eye conditions** (Cataract, Glaucoma, Diabetic Retinopathy, Normal) from retinal images at **92% accuracy** using ResNet18 fine-tuned with PyTorch and Fastai. Optimized Gradio inference pipeline reduced prediction latency from several minutes to **under 2 seconds**.
 
 `ResNet18` `PyTorch` `Fastai` `Gradio` `Python` `Deep Learning` `Kaggle`
 
 ---
 
-### 🎮 Clefairy App — Smart Safety App
+### Clefairy App — Smart Safety App
 Real-time SOS and location tracking app with a personalized safety chatbot "Sakhi" and community safety modules. Achieved **80% faster emergency response simulation**. Powered by a Random Forest Regressor trained on city street safety data (crime history, population density, night safety indicators) at **91% accuracy**, served via FastAPI.
 
 `Flutter` `Dart` `FastAPI` `Random Forest` `REST APIs` `Figma`
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages** &nbsp;·&nbsp; Java · Python · C/C++ · JavaScript · SQL · HTML/CSS · PHP
 
@@ -66,7 +66,7 @@ Real-time SOS and location tracking app with a personalized safety chatbot "Sakh
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Machine Learning Instructor** · Self-Employed, Remote *(Aug 2025 – Present)*
 > Launched an ML video series on LinkedIn covering algorithms, model building, and real-world applications — **700+ organic views** on debut video.
@@ -79,7 +79,7 @@ Real-time SOS and location tracking app with a personalized safety chatbot "Sakh
 
 ---
 
-## 🏆 Highlights
+## Highlights
 
 - 🥈 **2nd Place** — Smart India Hackathon, College Level 2024
 - 🥉 **3rd Place** — Innovastra National Level Hackathon 2025
@@ -89,13 +89,7 @@ Real-time SOS and location tracking app with a personalized safety chatbot "Sakh
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aliiakbarkhan&theme=default&hide_border=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliiakbarkhan&layout=compact&hide_border=true&langs_count=6" height="150"/>
-</p>
+## GitHub Stats
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/aliiakbarkhan/aliiakbarkhan/refs/heads/output/output.png" alt="Contribution graph"/>
