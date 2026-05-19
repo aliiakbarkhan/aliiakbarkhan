@@ -67,8 +67,10 @@ Real-time SOS and location tracking app with a personalized safety chatbot "Sakh
 ---
 
 ## Experience
+**Research Intern (Open Source)** · VLED Lab, IIT Ropar *(May 2026 – Present)*
+> Contributing to a live open-source repository on India-centric problems — real commits, publicly accessible work.
 
-**Machine Learning Instructor** · Self-Employed, Remote *(Aug 2025 – Present)*
+**Machine Learning Instructor** · Self-Employed, Remote *(Aug 2025 – Sep 2025)*
 > Launched an ML video series on LinkedIn covering algorithms, model building, and real-world applications — **700+ organic views** on debut video.
 
 **Software Developer Intern** · Pinnacle Labs, Bangalore *(Jun – Jul 2025)*
