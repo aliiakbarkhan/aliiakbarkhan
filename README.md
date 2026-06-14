@@ -1,23 +1,8 @@
 <div align="center">
 
-<!-- HEADER PANEL — Black Reaper silhouette -->
 <img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/Untitled%20design.png" width="100%" alt="Black Reaper"/>
 
 </div>
-
-<!-- <div align="center">
-
-```
- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
- ░                                                         ░
- ░    ...HAISE SASAKI IS...                               ░
- ░                                                         ░
- ░                        ...ALI AKBAR KHAN.              ░
- ░                                                         ░
- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
-
-</div> -->
 
 <br/>
 
@@ -41,34 +26,53 @@
 
 ---
 
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="68%">
 
 ### `// GHOUL PROFILE`
 
-</div>
-
 ```
-  DESIGNATION  ──  ML Engineer · Security Researcher · Full Stack Dev
-  AFFILIATION  ──  IIT Ropar (VLED Lab) · Rajasthan Technical University
+  DESIGNATION  ──  ML Engineer · Security Researcher
+                   Full Stack Dev
+  AFFILIATION  ──  IIT Ropar (VLED Lab)
+                   Rajasthan Technical University
   RC RATING    ──  Top 35% Globally on LeetCode
-                   Rank #9,600 / 36,000+ · Weekly Contest 468
+                   Rank #9,600 / 36,000+
                    140+ Problems Solved
-  THREAT LVL   ──  2nd Place SIH 2024 · 3rd Place Innovastra National 2025
+  THREAT LVL   ──  2nd Place SIH 2024
+                   3rd Place Innovastra National 2025
 ```
+
+</td>
+<td valign="top" width="32%">
+
+<img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/panel-07-face.jpg?raw=true" width="100%" alt="Kaneki profile"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="32%">
+
+<img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/panel-09-shutup.jpg?raw=true" width="100%" alt="Kaneki weapons"/>
+
+</td>
+<td valign="top" width="68%">
 
 ### `// WEAPONS`
 
-</div>
-
 ```
-  LANGUAGES    ──  Python · Java · C/C++ · JavaScript · SQL · PHP
+  LANGUAGES    ──  Python · Java · C/C++
+                   JavaScript · SQL · PHP
 
-  ML / DATA    ──  PyTorch · TensorFlow · Scikit-learn · Fastai
-                   OpenCV · Keras · Pandas · NumPy
+  ML / DATA    ──  PyTorch · TensorFlow · Scikit-learn
+                   Fastai · OpenCV · Keras
+                   Pandas · NumPy
 
   WEB          ──  FastAPI · Flutter · REST APIs · React
 
@@ -77,62 +81,83 @@
   TOOLS        ──  Git · GitHub · Figma · Gradio
 ```
 
+</td>
+</tr>
+</table>
+
 ---
 
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="68%">
 
 ### `// OPERATIONS`
 
-</div>
-
-**CanCure AI** — Breast Cancer Detection &nbsp;`96% accuracy · 98% recall`
-> Random Forest classifier with full EDA pipeline, class imbalance handling, and SHAP explainability.
+**CanCure AI** — Breast Cancer Detection &nbsp;`96% acc · 98% recall`
+> Random Forest classifier · EDA pipeline · SHAP explainability
 > `Python` `Random Forest` `Scikit-learn` `SHAP` `Pandas`
 
-**EyeDel AI** — Eye Disease Classification &nbsp;`92% accuracy · <2s latency`
-> ResNet18 fine-tuned on 4 eye conditions. Gradio inference pipeline cut prediction time from minutes to under 2 seconds.
+**EyeDel AI** — Eye Disease Classification &nbsp;`92% acc · <2s latency`
+> ResNet18 fine-tuned on 4 eye conditions via PyTorch + Fastai
 > `ResNet18` `PyTorch` `Fastai` `Gradio`
 
-**Women's Safety Map** — Jaipur Risk Mapper &nbsp;`~24,000 road segments`
-> Interactive map with vectorized STRtree spatial indexing, incident reporting, and crowd-sourced risk overlays.
+**Women's Safety Map** — Jaipur &nbsp;`~24,000 road segments`
+> STRtree spatial indexing · incident reporting · risk overlays
 > `React` `Leaflet` `OpenStreetMap` `Python` `GeoJSON`
 
-**MITM Attack & Defense Simulator** — Network Security
-> Simulated full Man-in-the-Middle attack on LAN. Demonstrated AES encryption neutralizing live interception.
-> `Java` `AES Encryption` `Java Crypto Libraries` `Cybersecurity`
+**MITM Simulator** — Network Security
+> Full LAN attack simulation. AES encryption as live defense.
+> `Java` `AES Encryption` `Java Crypto Libraries`
 
-**Clefairy App** — Smart Safety App &nbsp;`80% faster emergency response`
-> Real-time SOS + location tracking with AI safety chatbot "Sakhi". RF Regressor at 91% accuracy via FastAPI.
-> `Flutter` `FastAPI` `Random Forest` `Dart` `Figma`
+**Clefairy App** — Safety App &nbsp;`80% faster emergency response`
+> SOS + location tracking · AI chatbot "Sakhi" · RF at 91% acc
+> `Flutter` `FastAPI` `Random Forest` `Dart`
+
+</td>
+<td valign="top" width="32%">
+
+<img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/panel-06-standoff.jpg?raw=true" width="100%" alt="Kaneki standoff"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="32%">
+
+<img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/panel-05-smile.jpg?raw=true" width="100%" alt="Kaneki field record"/>
+
+</td>
+<td valign="top" width="68%">
 
 ### `// FIELD RECORD`
 
-</div>
-
 ```
-  [ PRESENT ]  Research Intern (Open Source) · VLED Lab, IIT Ropar
-               Real commits. India-centric problems. Publicly accessible.
+  [ NOW  ]  Research Intern · VLED Lab, IIT Ropar
+            Real commits. India-centric problems.
 
-  [ 2025   ]   ML Instructor · Self-Employed
-               LinkedIn ML series — 700+ organic views on debut video.
+  [ 2025 ]  ML Instructor · Self-Employed
+            LinkedIn ML series · 700+ views on debut.
 
-  [ 2025   ]   Software Developer Intern · Pinnacle Labs, Bangalore
-               Java applications · MITM Simulator · CRUD systems.
+  [ 2025 ]  Software Dev Intern · Pinnacle Labs
+            Java apps · MITM Simulator · CRUD systems.
 
-  [ 2023   ]   Founder · Tech10.in, Jaipur
-               Led hackathon teams · 91% improvement in operational flow.
+  [ 2023 ]  Founder · Tech10.in, Jaipur
+            Hackathon teams · 91% ops productivity gain.
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- CLOSING PANEL -->
 <div align="center">
 
-<img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/Gemini_Generated_Image_dauanrdauanrdaua.png" width="70%" alt="I'm done dreaming."/>
+<img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/Gemini_Generated_Image_dauanrdauanrdaua.png?raw=true" width="70%" alt="I'm done dreaming."/>
 
 <br/><br/>
 
