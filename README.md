@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER PANEL — Black Reaper silhouette -->
-<img src="https://raw.githubusercontent.com/aliiakbarkhan/aliiakbarkhan/main/assets/panel-01-reaper.jpg" width="100%" alt="Black Reaper"/>
+<img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/Untitled%20design.png" width="100%" alt="Black Reaper"/>
 
 </div>
 
