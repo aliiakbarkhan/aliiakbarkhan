@@ -116,7 +116,7 @@
 </td>
 <td valign="top" width="32%">
 
-<img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/panel-06-standoff.jpg?raw=true" width="100%" alt="Kaneki standoff"/>
+<img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/mk.jpeg?raw=true" width="100%" alt="Kaneki standoff"/>
 
 </td>
 </tr>
