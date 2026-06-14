@@ -1,98 +1,141 @@
-<h1 align="center">Ali Akbar Khan</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/aliiakbarkhan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  &nbsp;
-<a href="https://www.kaggle.com/aliiakbarkhan"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/></a>
+<!-- HEADER PANEL — Black Reaper silhouette -->
+<img src="https://raw.githubusercontent.com/aliiakbarkhan/aliiakbarkhan/main/assets/panel-01-reaper.jpg" width="100%" alt="Black Reaper"/>
+
+</div>
+
+<div align="center">
+
+```
+ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+ ░                                                         ░
+ ░    ...HAISE SASAKI IS...                               ░
+ ░                                                         ░
+ ░                        ...ALI AKBAR KHAN.              ░
+ ░                                                         ░
+ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
+
+</div>
+
+<br/>
+
+<div align="center">
+
+3rd Year B.Tech CSE &nbsp;·&nbsp; Rajasthan Technical University &nbsp;·&nbsp; **CGPA 8.75 / 10**
+
+*Building at the intersection of* ***Machine Learning*** *and* ***Software Engineering***
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aliiakbarkhan)
 &nbsp;
-  <a href="https://leetcode.com/aliiakbarkhan/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
-</p>
+[![Kaggle](https://img.shields.io/badge/Kaggle-000000?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/aliiakbarkhan)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/aliiakbarkhan/)
+&nbsp;
+[![Resume](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=files&logoColor=white)](https://drive.google.com/file/d/1VjdeFvgXsVUZbZEpa0JGfVhqjs7egAkW/view?usp=sharing)
 
-<p align="center">
-  3rd Year B.Tech CSE · Rajasthan Technical University · CGPA 8.75/10<br/>
-  Building at the intersection of <strong>Machine Learning</strong> and <strong>Software Engineering</strong>
-</p>
-
----
-
-## Featured Projects
-
-### CanCure AI — Breast Cancer Detection
-Random Forest classifier for breast cancer detection using clinical diagnostic data. Achieved **96% accuracy**, **98% recall**, and **95% F1-score**. Built with full EDA pipeline, class imbalance handling, and SHAP explainability for model transparency.
-
-`Python` `Random Forest` `Scikit-learn` `SHAP` `Pandas` `Seaborn` `Kaggle`
+</div>
 
 ---
 
-### Women's Safety Map — (UNDERDEVLOPMENT)
-Interactive safety map for Jaipur built with React and Leaflet over OpenStreetMap data. Risk-scores ~24,000 road segments using vectorized STRtree spatial indexing. Features incident reporting, crowd-sourced data layers, and filterable risk overlays.
+<div align="center">
 
-`React` `Leaflet` `OpenStreetMap` `Python` `STRtree` `GeoJSON`
+### `// GHOUL PROFILE`
 
----
+</div>
 
-### MITM Attack & Defense Simulator
-Simulated a full Man-in-the-Middle attack across 2 devices on a LAN — attacker impersonates both sender and receiver to intercept live network traffic. Demonstrated **AES encryption** as a real-time defense, proving secure communication can neutralize interception. Built entirely in Java.
-
-`Java` `Java Crypto Libraries` `AES Encryption` `Networking` `Cybersecurity`
-
----
-
-### EyeDel AI — Eye Disease Classification
-Deep learning model classifying **4 eye conditions** (Cataract, Glaucoma, Diabetic Retinopathy, Normal) from retinal images at **92% accuracy** using ResNet18 fine-tuned with PyTorch and Fastai. Optimized Gradio inference pipeline reduced prediction latency from several minutes to **under 2 seconds**.
-
-`ResNet18` `PyTorch` `Fastai` `Gradio` `Python` `Deep Learning` `Kaggle`
+```
+  DESIGNATION  ──  ML Engineer · Security Researcher · Full Stack Dev
+  AFFILIATION  ──  IIT Ropar (VLED Lab) · Rajasthan Technical University
+  RC RATING    ──  Top 35% Globally on LeetCode
+                   Rank #9,600 / 36,000+ · Weekly Contest 468
+                   140+ Problems Solved
+  THREAT LVL   ──  2nd Place SIH 2024 · 3rd Place Innovastra National 2025
+```
 
 ---
 
-### Clefairy App — Smart Safety App
-Real-time SOS and location tracking app with a personalized safety chatbot "Sakhi" and community safety modules. Achieved **80% faster emergency response simulation**. Powered by a Random Forest Regressor trained on city street safety data (crime history, population density, night safety indicators) at **91% accuracy**, served via FastAPI.
+<div align="center">
 
-`Flutter` `Dart` `FastAPI` `Random Forest` `REST APIs` `Figma`
+### `// WEAPONS`
 
----
+</div>
 
-## Tech Stack
+```
+  LANGUAGES    ──  Python · Java · C/C++ · JavaScript · SQL · PHP
 
-**Languages** &nbsp;·&nbsp; Java · Python · C/C++ · JavaScript · SQL · HTML/CSS · PHP
+  ML / DATA    ──  PyTorch · TensorFlow · Scikit-learn · Fastai
+                   OpenCV · Keras · Pandas · NumPy
 
-**ML / Data** &nbsp;·&nbsp; PyTorch · TensorFlow · Scikit-learn · Fastai · OpenCV · Keras · Pandas · NumPy
+  WEB          ──  FastAPI · Flutter · REST APIs · React
 
-**Web & Backend** &nbsp;·&nbsp; FastAPI · Flutter · REST APIs · JDBC · Swing
+  DATABASES    ──  MySQL · MongoDB · Firebase · Supabase
 
-**Databases** &nbsp;·&nbsp; MySQL · MongoDB · Firebase · Supabase
-
-**Tools** &nbsp;·&nbsp; Git · GitHub · Figma · Gradio
-
----
-
-## Experience
-**Research Intern (Open Source)** · VLED Lab, IIT Ropar *(May 2026 – Present)*
-> Contributing to a live open-source repository on India-centric problems — real commits, publicly accessible work.
-
-**Machine Learning Instructor** · Self-Employed, Remote *(Aug 2025 – Sep 2025)*
-> Launched an ML video series on LinkedIn covering algorithms, model building, and real-world applications — **700+ organic views** on debut video.
-
-**Software Developer Intern** · Pinnacle Labs, Bangalore *(Jun – Jul 2025)*
-> Built Java-based applications including a Library Management System (CRUD + DB integration) and the MITM Attack & Defense Simulator using Java Crypto Libraries.
-
-**Founder** · Tech10.in, Jaipur *(Sep 2023 – May 2025)*
-> Led cross-functional teams in multiple technical events and hackathons — achieved **91% improvement** in operational productivity.
+  TOOLS        ──  Git · GitHub · Figma · Gradio
+```
 
 ---
 
-## Highlights
+<div align="center">
 
-- **2nd Place** — Smart India Hackathon, College Level 2024
-- **3rd Place** — Innovastra National Level Hackathon 2025
-- **Qualifier** — Call2Code Hackathon, Manipal University 2025
-- **Participant** — SHANKARA Global Hackathon
-- **Top 35% Globally** on LeetCode · Ranked **9,600 / 36,000+** in Weekly Contest 468 · **140+ problems** solved
+### `// OPERATIONS`
+
+</div>
+
+**CanCure AI** — Breast Cancer Detection &nbsp;`96% accuracy · 98% recall`
+> Random Forest classifier with full EDA pipeline, class imbalance handling, and SHAP explainability.
+> `Python` `Random Forest` `Scikit-learn` `SHAP` `Pandas`
+
+**EyeDel AI** — Eye Disease Classification &nbsp;`92% accuracy · <2s latency`
+> ResNet18 fine-tuned on 4 eye conditions. Gradio inference pipeline cut prediction time from minutes to under 2 seconds.
+> `ResNet18` `PyTorch` `Fastai` `Gradio`
+
+**Women's Safety Map** — Jaipur Risk Mapper &nbsp;`~24,000 road segments`
+> Interactive map with vectorized STRtree spatial indexing, incident reporting, and crowd-sourced risk overlays.
+> `React` `Leaflet` `OpenStreetMap` `Python` `GeoJSON`
+
+**MITM Attack & Defense Simulator** — Network Security
+> Simulated full Man-in-the-Middle attack on LAN. Demonstrated AES encryption neutralizing live interception.
+> `Java` `AES Encryption` `Java Crypto Libraries` `Cybersecurity`
+
+**Clefairy App** — Smart Safety App &nbsp;`80% faster emergency response`
+> Real-time SOS + location tracking with AI safety chatbot "Sakhi". RF Regressor at 91% accuracy via FastAPI.
+> `Flutter` `FastAPI` `Random Forest` `Dart` `Figma`
 
 ---
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1VjdeFvgXsVUZbZEpa0JGfVhqjs7egAkW/view?usp=sharing">
-    <img src="https://img.shields.io/badge/View%20Resume-000000?style=for-the-badge&logo=files&logoColor=green"/>
-  </a>
-</p>
+<div align="center">
+
+### `// FIELD RECORD`
+
+</div>
+
+```
+  [ PRESENT ]  Research Intern (Open Source) · VLED Lab, IIT Ropar
+               Real commits. India-centric problems. Publicly accessible.
+
+  [ 2025   ]   ML Instructor · Self-Employed
+               LinkedIn ML series — 700+ organic views on debut video.
+
+  [ 2025   ]   Software Developer Intern · Pinnacle Labs, Bangalore
+               Java applications · MITM Simulator · CRUD systems.
+
+  [ 2023   ]   Founder · Tech10.in, Jaipur
+               Led hackathon teams · 91% improvement in operational flow.
+```
+
+---
+
+<!-- CLOSING PANEL -->
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/aliiakbarkhan/aliiakbarkhan/main/assets/panel-12-done-dreaming.jpg" width="70%" alt="I'm done dreaming."/>
+
+<br/><br/>
+
+*`...I will write the code.`*
+
+</div>
