@@ -116,7 +116,7 @@
 </td>
 <td valign="top" width="32%">
 
-<img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/mk.jpeg?raw=true" width="100%" alt="Kaneki standoff"/>
+<img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/v17.jpg?raw=true" width="100%" alt="Kaneki standoff"/>
 
 </td>
 </tr>
@@ -128,7 +128,7 @@
 <tr>
 <td valign="top" width="32%">
 
-<img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/v17.jpg?raw=true" width="100%" alt="Kaneki field record"/>
+<img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/10.jpg?raw=true" width="100%" alt="Kaneki field record"/>
 
 </td>
 <td valign="top" width="68%">
