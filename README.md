@@ -157,7 +157,7 @@
 
 <div align="center">
 
-<img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/Gemini_Generated_Image_dauanrdauanrdaua.png?raw=true" width="70%" alt="I'm done dreaming."/>
+<img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/Gemini_Generated_Image_kzfkvlkzfkvlkzfk.png?raw=true" width="70%" alt="I'm done dreaming."/>
 
 <br/><br/>
 
