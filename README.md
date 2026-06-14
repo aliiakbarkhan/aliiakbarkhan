@@ -47,7 +47,7 @@
 </td>
 <td valign="top" width="32%">
 
-<img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/aim.jpeg?raw=true" width="100%" alt="Kaneki profile"/>
+<img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/icon.jpeg?raw=true" width="100%" alt="Kaneki profile"/>
 
 </td>
 </tr>
