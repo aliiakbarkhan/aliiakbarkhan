@@ -128,7 +128,7 @@
 <tr>
 <td valign="top" width="32%">
 
-<img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/panel-05-smile.jpg?raw=true" width="100%" alt="Kaneki field record"/>
+<img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/v17.jpg?raw=true" width="100%" alt="Kaneki field record"/>
 
 </td>
 <td valign="top" width="68%">
