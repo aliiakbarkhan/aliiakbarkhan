@@ -132,7 +132,7 @@
 <!-- CLOSING PANEL -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aliiakbarkhan/aliiakbarkhan/main/assets/panel-12-done-dreaming.jpg" width="70%" alt="I'm done dreaming."/>
+<img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/Gemini_Generated_Image_dauanrdauanrdaua.png" width="70%" alt="I'm done dreaming."/>
 
 <br/><br/>
 
