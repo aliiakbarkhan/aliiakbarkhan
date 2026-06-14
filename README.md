@@ -59,7 +59,7 @@
 <tr>
 <td valign="top" width="32%">
 
-<img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/panel-09-shutup.jpg?raw=true" width="100%" alt="Kaneki weapons"/>
+<img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/.jpeg?raw=true" width="100%" alt="Kaneki weapons"/>
 
 </td>
 <td valign="top" width="68%">
@@ -116,7 +116,7 @@
 </td>
 <td valign="top" width="32%">
 
-<img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/v17.jpg?raw=true" width="100%" alt="Kaneki standoff"/>
+<img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/hj.jpeg?raw=true" width="100%" alt="Kaneki standoff"/>
 
 </td>
 </tr>
