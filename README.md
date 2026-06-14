@@ -59,7 +59,7 @@
 <tr>
 <td valign="top" width="32%">
 
-<img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/.jpeg?raw=true" width="100%" alt="Kaneki weapons"/>
+<img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/tokyo%20ghoul%20kaneki%20ken%20manga%20white%20background%20pfp%20icon.jpeg?raw=true" width="100%" alt="Kaneki weapons"/>
 
 </td>
 <td valign="top" width="68%">
