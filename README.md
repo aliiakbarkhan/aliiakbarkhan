@@ -20,7 +20,7 @@
 &nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/aliiakbarkhan/)
 &nbsp;
-[![Resume](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=files&logoColor=white)](https://drive.google.com/file/d/1VjdeFvgXsVUZbZEpa0JGfVhqjs7egAkW/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=files&logoColor=white)](https://drive.google.com/file/d/1DPqYizPe436GckRu4eRbN2mH8mNCzoVR/view?usp=sharing)
 
 </div>
 
