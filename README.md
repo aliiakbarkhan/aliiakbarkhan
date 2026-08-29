@@ -91,8 +91,8 @@ Real-time SOS and location tracking app with a personalized safety chatbot "Sakh
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://drive.google.com/file/d/1VjdeFvgXsVUZbZEpa0JGfVhqjs7egAkW/view?usp=sharing">
     <img src="https://img.shields.io/badge/View%20Resume-000000?style=for-the-badge&logo=files&logoColor=green"/>
   </a>
-</p>
+</p> -->
