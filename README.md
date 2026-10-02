@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  3rd Year B.Tech CSE · Rajasthan Technical University · CGPA 8.75/10<br/>
+  4th Year B.Tech CSE · Rajasthan Technical University · CGPA 8.75/10<br/>
   Building at the intersection of <strong>Machine Learning</strong> and <strong>Software Engineering</strong>
 </p>
 
