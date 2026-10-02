@@ -18,6 +18,9 @@
 ## Featured Projects
 
 ### [Clefairy (Women Safety Application)](https://github.com/DHRUVxMISHRA/women-safety-app)
+
+<img src = "https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/clef.png"></img>
+
 Clefairy is a native Android application designed to give women faster, more reliable access to help in emergencies. It combines multiple **SOS triggers**, **live location tracking**, an **ML-powered safe-route system**, an AI safety assistant (**Sakhi AI**), community support, and direct access to verified government help centers, all in one integrated app.
 
 `Android (Kotlin, Native)` `SensorManager` `Location Services` `Foreground Services` `FastAPI` `Figma`
@@ -25,6 +28,9 @@ Clefairy is a native Android application designed to give women faster, more rel
 ---
 
 ### [EyeDel AI (Eye Disease Classification)](https://github.com/aliiakbarkhan/Eye-Disease-Detection-DL)
+
+<img src = "https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/assets/eyedl.png"></img>
+
 Deep learning model classifying **4 eye conditions** (Cataract, Glaucoma, Diabetic Retinopathy, Normal) from retinal images at **92% accuracy** using ResNet32 fine-tuned with PyTorch and Fastai. Optimized Gradio inference pipeline reduced prediction latency from several minutes to **under 2 seconds**.
 
 `ResNet18` `PyTorch` `Fastai` `Gradio` `Python` `Deep Learning` `Kaggle`
