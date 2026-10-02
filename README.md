@@ -74,12 +74,12 @@ Random Forest classifier for breast cancer detection using clinical diagnostic d
 ---
 
 ## Highlights
-- **94% & Elite + Gold Medal** — Programming in Java NPTEL
+- **94% & Elite + Gold Medal** — Programming in Java NPTEL 2026
 - **2nd Place** — Smart India Hackathon, College Level 2024
 - **3rd Place** — Innovastra National Level Hackathon 2025
 - **Qualifier** — Call2Code Hackathon, Manipal University 2025
 - **Participant** — SHANKARA Global Hackathon
-- **Top 35% Globally** on LeetCode · Ranked **9,600 / 36,000+** in Weekly Contest 468 · **140+ problems** solved
+- **Top 35% Globally** on LeetCode · Ranked **9,600 / 36,000+** in Weekly Contest 468 · **200+ problems** solved
 
 ---
 
